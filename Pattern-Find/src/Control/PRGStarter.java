@@ -41,7 +41,7 @@ public class PRGStarter {
      * @throws FileNotFoundException 
      */
     public static void main(String[] args) throws FileNotFoundException {
-
+//keyileba
         config = Config.getConfig();
 
         File file = new File(config.getProperty("NEW_LOG_FILE"));	
