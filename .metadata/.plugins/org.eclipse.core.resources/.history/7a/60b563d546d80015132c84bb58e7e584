@@ -1,0 +1,11 @@
+package dfamini;
+
+//import node;
+
+public class equivclass {
+	public String class_id;
+	
+	public equivclass(String class_id) {
+		this.class_id = class_id;
+	}
+}

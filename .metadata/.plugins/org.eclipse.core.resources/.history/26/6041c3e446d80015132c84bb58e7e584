@@ -1,0 +1,11 @@
+package dfamini;
+
+import java.util.Set;
+
+public class equivclass {
+	public String class_id;
+	public Set<node> = new Set<>();
+	public equivclass(String class_id) {
+		this.class_id = class_id;
+	}
+}
