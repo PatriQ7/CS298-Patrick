@@ -47,7 +47,6 @@ public class PRGStarter {
         File file = new File(config.getProperty("NEW_LOG_FILE"));	
 		FileOutputStream fos = new FileOutputStream(file);
 		PrintStream ps = new PrintStream(fos);
-//		System.setOut(ps);
 
 		System.out.println("Free Memory " + General.getMemory());
 		

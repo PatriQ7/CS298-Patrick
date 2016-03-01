@@ -21737,3 +21737,10 @@ i  Alpha Doc01(%)
 02/23/2016@18:47 all alphas are processed.   elapsed: 58 Sec, 891 Millisec, 
 02/23/2016@18:47 logger closed!
 
+03/01/2016@02:04 ********** PatternDiscovery Started! **************
+
+03/01/2016@02:04 loading function words file ./FunctionWords/modified_str_code.txt
+03/01/2016@02:04 test engine started.03/01/2016@02:06 processed alpha = 0.6   elapsed:  1 Min,  3 Sec, 305 Millisec, 
+03/01/2016@02:06 all alphas are processed.   elapsed:  1 Min,  8 Sec, 258 Millisec, 
+03/01/2016@02:06 logger closed!
+
