@@ -2,6 +2,7 @@ package dfamini;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.LinkedList;
 
 public class DFAmini {
 	 
@@ -9,12 +10,12 @@ public class DFAmini {
 	public static ArrayList<node> node_list = new ArrayList<>();
 	
 	//public static int finish_flag = 0;
+	public static LinkedList<String> newtest = new LinkedList<String>();
 	
 	public static void main(String[] args) {
 		System.out.println("Hello DFA-mini!");
 		ArrayList<String> cins = new ArrayList<String>(Arrays.asList("0","1"));
-		
-		/*
+		///*
 		node A = new node("A");
 		node B = new node("B");
 		node C = new node("C");
@@ -50,8 +51,8 @@ public class DFAmini {
 		
 		ArrayList <String> Final_Set = new ArrayList<>(new ArrayList(Arrays.asList("C")));
 		
-		*/
-		
+		//*/
+		/*
 		node A = new node("A");
 		node B = new node("B");
 		node C = new node("C");
@@ -86,7 +87,7 @@ public class DFAmini {
 		H.children.put("1", C);
 		
 		ArrayList <String> Final_Set = new ArrayList<>(new ArrayList(Arrays.asList("F","G")));
-		
+		*/
 		
 		node_list.add(A);
 		node_list.add(B);
@@ -120,9 +121,21 @@ public class DFAmini {
 			System.out.println("");
 		}
 		
-		make_equiv_class(x_coor);
+		System.out.println();
+		for (equivclass tmp : make_equiv_class(x_coor)) {
+			System.out.print("Class " + tmp.class_id + " : " );
+			for (node tmp_node : tmp.class_children) {
+				System.out.print(tmp_node.node_ID + " ");
+			}
+			System.out.println();
+			for (String str : cins) {
+				System.out.print("C-" + str + ":" + tmp.class_children.get(0).children.get(str).e_class.class_id + " ");
+			}
+			System.out.println();
+		}
 		
 	}
+	
 	
 	
 	private static ArrayList<ArrayList<table_node>> load_info (ArrayList<node> node_list) {	
@@ -210,7 +223,29 @@ public class DFAmini {
 	
 	private static ArrayList<equivclass> make_equiv_class (ArrayList<ArrayList<table_node>> x_coor) {
 		ArrayList<equivclass> equiv_class = new ArrayList<>();
-		//equiv_class.sor;
+		node cur_node = null;
+		int e_class_id = 0;
+		for (int i = 0; i < node_list.size()-1; i++) {
+			cur_node = node_list.get(i);
+			if (cur_node.e_class == null) {
+				equivclass new_e_class = new equivclass(e_class_id);
+				new_e_class.class_children.add(cur_node);
+				equiv_class.add(new_e_class);
+				cur_node.e_class = new_e_class;
+				
+				for (table_node tmp : x_coor.get(i)) {
+					if (tmp.value == false) {
+						node_list.get(node_list.size()-x_coor.get(i).indexOf(tmp)-1).e_class = new_e_class;
+						new_e_class.class_children.add(node_list.get(node_list.size()-x_coor.get(i).indexOf(tmp)-1));
+					}
+						
+				}
+				e_class_id++;
+			}
+			//x_coor.get(i)
+		}
+		
+		
 		
 		return equiv_class;
 	}

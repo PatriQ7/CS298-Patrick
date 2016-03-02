@@ -6,7 +6,7 @@ import java.util.HashMap;
 
 public class node {
 	public String node_ID;
-	public equivclass e_class;
+	public equivclass e_class = null;
 	public boolean is_Fset;
 	
 	//private ArrayList<Map<String, node>> children = new ArrayList<>();
