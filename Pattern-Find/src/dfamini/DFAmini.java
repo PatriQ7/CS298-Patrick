@@ -3,17 +3,17 @@ package dfamini;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.LinkedList;
+import java.util.Collections;
+import java.util.Comparator;
 
 public class DFAmini {
-	 
-	public static ArrayList<ArrayList<table_node>> x_coor = new ArrayList<>();
-	public static ArrayList<node> node_list = new ArrayList<>();
 	
-	//public static int finish_flag = 0;
-	public static LinkedList<String> newtest = new LinkedList<String>();
+	//public static LinkedList<String> newtest = new LinkedList<String>();
 	
 	public static void main(String[] args) {
+		ArrayList<node> node_list = new ArrayList<>();
 		System.out.println("Hello DFA-mini!");
+		System.out.println("");
 		ArrayList<String> cins = new ArrayList<String>(Arrays.asList("0","1"));
 		///*
 		node A = new node("A");
@@ -98,40 +98,15 @@ public class DFAmini {
 		node_list.add(F);
 		node_list.add(G);
 		node_list.add(H);
-
 		
-		dfa_mini(load_info (node_list), Final_Set, cins);
-		
-		/*
-		 ****** Print Loaded Info ******
-		 */
-
-		System.out.print("  ");
-
-		for (int j = node_list.size()-1; j>0; j--)
-			System.out.print(node_list.get(j).node_ID + " ");
-		System.out.println("");
-		for (ArrayList <table_node> tmp : x_coor) {
-			System.out.print(tmp.get(0).x.node_ID + " ");
-			for (table_node tmp_node : tmp) {
-				if (tmp_node.value == true)
-					System.out.print("x ");
-				else
-					System.out.print("e ");
-			}
-			System.out.println("");
-		}
-		
-		System.out.println();
-		
-		make_equiv_class (x_coor, cins);
-		
+		make_equiv_class (dfa_mini(load_info (node_list), node_list, Final_Set, cins), node_list, cins);
 		
 	}
 	
 	
 	
 	private static ArrayList<ArrayList<table_node>> load_info (ArrayList<node> node_list) {	
+		ArrayList<ArrayList<table_node>> x_coor = new ArrayList<>();
 		for ( int i = 0; i < (node_list.size()-1); i++) {
 			ArrayList <table_node> tmp_list = new ArrayList<table_node> ();
 			for (int j = node_list.size()-1; j>i; j--){
@@ -143,7 +118,7 @@ public class DFAmini {
 	}
 	
 	
-	private static void dfa_mini(ArrayList<ArrayList<table_node>> x_coor, ArrayList<String> Final_Set, ArrayList<String> cins) {
+	private static ArrayList<ArrayList<table_node>> dfa_mini(ArrayList<ArrayList<table_node>> x_coor, ArrayList<node> node_list, ArrayList<String> Final_Set, ArrayList<String> cins) {
 		int finish_flag = 0;
 		/* Check Final State */
 		for (ArrayList <table_node> tmp : x_coor) {
@@ -153,7 +128,6 @@ public class DFAmini {
 				if (x && !y || !x && y)
 					tmp_node.value = true;
 			}
-			System.out.println("");
 		}		
 		
 		/* Check Equivalence */
@@ -206,6 +180,24 @@ public class DFAmini {
 				break;
 
 		}
+		System.out.print("  ");
+
+		for (int j = node_list.size()-1; j>0; j--)
+			System.out.print(node_list.get(j).node_ID + " ");
+		System.out.println("");
+		for (ArrayList <table_node> tmp : x_coor) {
+			System.out.print(tmp.get(0).x.node_ID + " ");
+			for (table_node tmp_node : tmp) {
+				if (tmp_node.value == true)
+					System.out.print("x ");
+				else
+					System.out.print("e ");
+			}
+			System.out.println("");
+		}
+		
+		System.out.println();
+		return x_coor;
 	}
 	
 	private void check_useless() {
@@ -214,7 +206,7 @@ public class DFAmini {
 		 */
 	}
 	
-	private static ArrayList<equivclass> make_equiv_class (ArrayList<ArrayList<table_node>> x_coor, ArrayList<String> cins) {
+	private static ArrayList<equivclass> make_equiv_class (ArrayList<ArrayList<table_node>> x_coor, ArrayList<node> node_list, ArrayList<String> cins) {
 		ArrayList<equivclass> equiv_class = new ArrayList<>();
 		node cur_node = null;
 		int e_class_id = 0;
@@ -248,7 +240,6 @@ public class DFAmini {
 			}
 			System.out.println();
 		}
-		
 		
 		return equiv_class;
 	}
