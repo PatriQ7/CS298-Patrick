@@ -24,7 +24,7 @@ public class DFAmini {
 		node F = new node("F");
 		node G = new node("G");
 		node H = new node("H");
-		
+
 		A.children.put("0", B);
 		A.children.put("1", F);
 		
@@ -48,6 +48,7 @@ public class DFAmini {
 		
 		H.children.put("0", G);
 		H.children.put("1", C);
+
 		
 		ArrayList <String> Final_Set = new ArrayList<>(new ArrayList(Arrays.asList("C")));
 		
@@ -97,7 +98,7 @@ public class DFAmini {
 		node_list.add(F);
 		node_list.add(G);
 		node_list.add(H);
-		
+
 		
 		dfa_mini(load_info (node_list), Final_Set, cins);
 		
@@ -122,17 +123,9 @@ public class DFAmini {
 		}
 		
 		System.out.println();
-		for (equivclass tmp : make_equiv_class(x_coor)) {
-			System.out.print("Class " + tmp.class_id + " : " );
-			for (node tmp_node : tmp.class_children) {
-				System.out.print(tmp_node.node_ID + " ");
-			}
-			System.out.println();
-			for (String str : cins) {
-				System.out.print("C-" + str + ":" + tmp.class_children.get(0).children.get(str).e_class.class_id + " ");
-			}
-			System.out.println();
-		}
+		
+		make_equiv_class (x_coor, cins);
+		
 		
 	}
 	
@@ -168,8 +161,8 @@ public class DFAmini {
 		while (finish_flag == 0){
 			change_flag = 0;
 			finish_flag = 1;
-			node n_x = null;
-			node n_y = null;
+			node n_x;// = null;
+			node n_y;// = null;
 			for ( int i = 0; i < (node_list.size()-1); i++) {				
 				for (int j = node_list.size()-i-2; j >= 0; j--) {
 					if (x_coor.get(i).get(j).value == false) {
@@ -221,7 +214,7 @@ public class DFAmini {
 		 */
 	}
 	
-	private static ArrayList<equivclass> make_equiv_class (ArrayList<ArrayList<table_node>> x_coor) {
+	private static ArrayList<equivclass> make_equiv_class (ArrayList<ArrayList<table_node>> x_coor, ArrayList<String> cins) {
 		ArrayList<equivclass> equiv_class = new ArrayList<>();
 		node cur_node = null;
 		int e_class_id = 0;
@@ -244,7 +237,17 @@ public class DFAmini {
 			}
 			//x_coor.get(i)
 		}
-		
+		for (equivclass tmp : equiv_class) {
+			System.out.print("Class " + tmp.class_id + " : " );
+			for (node tmp_node : tmp.class_children) {
+				System.out.print(tmp_node.node_ID + " ");
+			}
+			System.out.println();
+			for (String str : cins) {
+				System.out.print("C-" + str + ":" + tmp.class_children.get(0).children.get(str).e_class.class_id + " ");
+			}
+			System.out.println();
+		}
 		
 		
 		return equiv_class;
