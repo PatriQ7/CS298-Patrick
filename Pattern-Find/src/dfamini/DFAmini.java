@@ -90,14 +90,19 @@ public class DFAmini {
 		ArrayList <String> Final_Set = new ArrayList<>(new ArrayList(Arrays.asList("F","G")));
 		*/
 		
-		node_list.add(A);
-		node_list.add(B);
-		node_list.add(C);
 		node_list.add(D);
+		node_list.add(B);
+		
+		
 		node_list.add(E);
-		node_list.add(F);
-		node_list.add(G);
+		node_list.add(C);
 		node_list.add(H);
+		node_list.add(G);
+		node_list.add(F);
+		node_list.add(A);
+		
+		
+		
 		
 		make_equiv_class (dfa_mini(load_info (node_list), node_list, Final_Set, cins), node_list, cins);
 		
@@ -229,6 +234,15 @@ public class DFAmini {
 			}
 			//x_coor.get(i)
 		}
+		
+		node last_node = node_list.get(node_list.size()-1);
+		if (last_node.e_class == null) {
+			equivclass new_e_class = new equivclass(e_class_id);
+			new_e_class.class_children.add(last_node);
+			equiv_class.add(new_e_class);
+			last_node.e_class = new_e_class;
+		}
+		
 		for (equivclass tmp : equiv_class) {
 			System.out.print("Class " + tmp.class_id + " : " );
 			for (node tmp_node : tmp.class_children) {
