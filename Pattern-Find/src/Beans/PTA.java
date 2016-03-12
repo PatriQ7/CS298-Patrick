@@ -259,6 +259,15 @@ public class PTA implements Serializable {
     private ArrayList nodearr;
     int nodenum = 1;
     private void preOrderTraverse_Rec(Node node, int depth, StringBuilder sb, int node_id) {
+    	/*node this_node = new node(Integer.toString(node_id));
+        
+        for (Integer key : node.getChildren().keySet()) {
+        	node child = new node(Integer.toString(node.getChild(key).getNodeID()));
+        	this_node.children.put(Integer.toString(key), child);
+        }
+        	
+    	node_list.add(this_node);
+    	*/
         nodearr.add(node_id);
         //System.out.println(nodearr.toString());
         sb.append(StringUtil.space4Creator(depth));
