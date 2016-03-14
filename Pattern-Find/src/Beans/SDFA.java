@@ -87,6 +87,7 @@ public class SDFA implements Serializable {
         System.out.println("Applying Merge Alergia Algorithm..");
         pta = mergeAlg.applyAlgorithm(pta, alpha);
         mergedNodesNum = mergeAlg.getMergedNodesNum();
+        pta.make_dfa_mini();
         System.out.println(pta.toString_Rec());
         
         if (tCond.isDebugMode(201)) 

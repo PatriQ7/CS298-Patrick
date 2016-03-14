@@ -3,6 +3,7 @@ package Beans;
 import Control.AlgAlergiaBFS;
 import Control.Config;
 import Util.StringUtil;
+import dfamini.*;
 
 import java.io.*;
 import java.util.ArrayList;
@@ -255,19 +256,9 @@ public class PTA implements Serializable {
 
     } //mehtod
 
-    
     private ArrayList nodearr;
     int nodenum = 1;
-    private void preOrderTraverse_Rec(Node node, int depth, StringBuilder sb, int node_id) {
-    	/*node this_node = new node(Integer.toString(node_id));
-        
-        for (Integer key : node.getChildren().keySet()) {
-        	node child = new node(Integer.toString(node.getChild(key).getNodeID()));
-        	this_node.children.put(Integer.toString(key), child);
-        }
-        	
-    	node_list.add(this_node);
-    	*/
+    private void preOrderTraverse_Rec(Node node, int depth, StringBuilder sb, int node_id) {    	  	
         nodearr.add(node_id);
         //System.out.println(nodearr.toString());
         sb.append(StringUtil.space4Creator(depth));
@@ -377,6 +368,59 @@ public class PTA implements Serializable {
 //    	return null;
 
     } //method
+    
+    public void make_dfa_mini () {
+    	ArrayList<Node> node_list_PTA = new ArrayList<>();
+    	ArrayList<node> node_list = new ArrayList<>();
+    	ArrayList<String> Final_Set = new ArrayList<>();
+    	ArrayList<String> cins = new ArrayList<String>(Arrays.asList("0","1"));
+    	ArrayList nodearr = new ArrayList<>();
+    	
+    	Node cur_node = this.root;
+    	node tmp_node = new node(Integer.toString(cur_node.getNodeID()));
+    	node_list_PTA.add(cur_node);
+    	node_list.add(tmp_node);
+    	nodearr.add(cur_node.getNodeID());
+    	int index = 0;
+    	while (index < node_list_PTA.size()) {
+    		System.out.print(index + ": " + cur_node.getNodeID() + "-- ");
+    		for (Integer key : cur_node.getChildren().keySet()) {
+    			Node child = cur_node.getChild(key);
+    			node tmp_child = new node(Integer.toString(child.getNodeID()));
+    			if (!nodearr.contains(child.getNodeID())) {
+    				node_list_PTA.add(child);
+    				nodearr.add(child.getNodeID());
+    				node_list.add(tmp_child);
+    				node_list.get(index).children.put(Integer.toString(key-1), node_list.get(node_list.indexOf(tmp_child)));
+    				System.out.print(key + "--" + tmp_child.node_ID + " ");
+    			}
+    			else {
+    				node_list.get(index).children.put(Integer.toString(key-1), node_list.get(node_list_PTA.indexOf(child)));
+    				System.out.print(key + "--" + tmp_child.node_ID + " ");
+    			}
+    	    }
+    		index++;
+    		System.out.println();
+    		//System.out.println("Round:" + index);
+    		if (index == node_list_PTA.size())
+    			break;
+    		else
+    			cur_node = node_list_PTA.get(index);
+    	}
+    	
+    	// Get Final Set
+    	for (Node tmp : node_list_PTA) {
+    		if (tmp.getNumAccepted() > 0) {
+    			Final_Set.add((node_list.get(node_list_PTA.indexOf(tmp)).node_ID));
+    		}
+    	}
+
+        
+    	System.out.println("STARTING MAKING DFA MINI");
+        DFAmini new_case = new DFAmini();
+        new_case.make_equiv_class(new_case.dfa_mini(new_case.load_info(node_list), node_list, Final_Set, cins), node_list, cins);
+    	
+    }
 
 
     private static void testtoString() {

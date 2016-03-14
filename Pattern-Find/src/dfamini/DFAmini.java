@@ -103,14 +103,16 @@ public class DFAmini {
 		
 		
 		
-		
-		make_equiv_class (dfa_mini(load_info (node_list), node_list, Final_Set, cins), node_list, cins);
+		DFAmini new_case = new DFAmini();
+        new_case.make_equiv_class(new_case.dfa_mini(new_case.load_info(node_list), node_list, Final_Set, cins), node_list, cins);
+    	
+		//make_equiv_class (dfa_mini(load_info (node_list), node_list, Final_Set, cins), node_list, cins);
 		
 	}
 	
 	
 	
-	private static ArrayList<ArrayList<table_node>> load_info (ArrayList<node> node_list) {	
+	public static ArrayList<ArrayList<table_node>> load_info (ArrayList<node> node_list) {	
 		ArrayList<ArrayList<table_node>> x_coor = new ArrayList<>();
 		for ( int i = 0; i < (node_list.size()-1); i++) {
 			ArrayList <table_node> tmp_list = new ArrayList<table_node> ();
@@ -123,7 +125,7 @@ public class DFAmini {
 	}
 	
 	
-	private static ArrayList<ArrayList<table_node>> dfa_mini(ArrayList<ArrayList<table_node>> x_coor, ArrayList<node> node_list, ArrayList<String> Final_Set, ArrayList<String> cins) {
+	public static ArrayList<ArrayList<table_node>> dfa_mini(ArrayList<ArrayList<table_node>> x_coor, ArrayList<node> node_list, ArrayList<String> Final_Set, ArrayList<String> cins) {
 		int finish_flag = 0;
 		/* Check Final State */
 		for (ArrayList <table_node> tmp : x_coor) {
@@ -186,7 +188,7 @@ public class DFAmini {
 
 		}
 		System.out.print("  ");
-
+/*
 		for (int j = node_list.size()-1; j>0; j--)
 			System.out.print(node_list.get(j).node_ID + " ");
 		System.out.println("");
@@ -200,7 +202,7 @@ public class DFAmini {
 			}
 			System.out.println("");
 		}
-		
+		*/
 		System.out.println();
 		return x_coor;
 	}
@@ -211,7 +213,7 @@ public class DFAmini {
 		 */
 	}
 	
-	private static ArrayList<equivclass> make_equiv_class (ArrayList<ArrayList<table_node>> x_coor, ArrayList<node> node_list, ArrayList<String> cins) {
+	public static ArrayList<equivclass> make_equiv_class (ArrayList<ArrayList<table_node>> x_coor, ArrayList<node> node_list, ArrayList<String> cins) {
 		ArrayList<equivclass> equiv_class = new ArrayList<>();
 		node cur_node = null;
 		int e_class_id = 0;
