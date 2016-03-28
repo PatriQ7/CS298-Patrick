@@ -11,6 +11,11 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Stack;
 
+import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileWriter;
+import java.io.IOException;
+
 /**
  * represent an Prefix Tree Acceptor (PTA).
  *
@@ -417,6 +422,46 @@ public class PTA implements Serializable {
 
         
     	System.out.println("STARTING MAKING DFA MINI");
+    	
+    	//Write jff file
+    	try {
+
+			String content = "This is the content to write into file +1";
+
+			File file = new File("./filename.txt");
+
+			// if file doesnt exists, then create it
+			if (!file.exists()) {
+				file.createNewFile();
+			}
+
+			FileWriter fw = new FileWriter(file.getAbsoluteFile());
+			BufferedWriter bw = new BufferedWriter(fw);
+			bw.write("<structure>\n  <type>fa</type>\n  <automaton>\n");
+			for (node tmpnode : node_list) {
+				bw.write("    <state id=\"" + tmpnode.node_ID + "\"" + " name=\"" + tmpnode.node_ID + "\"" + ">\n      <x>100.0</x>\n      <y>100.0</y>\n");
+				if (node_list.indexOf(tmpnode) == 0)
+					bw.write("      <initial/>\n");
+				if (Final_Set.contains(tmpnode.node_ID))
+					bw.write("      <final/>\n");
+				bw.write("    </state>\n");
+			}
+			for (node tmpnode : node_list) {
+				for (String cin : cins) {
+					bw.write("    <transition>\n      <from>" + tmpnode.node_ID + "</from>\n      <to>" + tmpnode.children.get(cin).node_ID + "</to>\n      <read>" + cin + "</read>\n    </transition>\n");
+				}
+			}
+			bw.write("  </automaton>\n</structure>");
+			
+			
+			
+			bw.close();
+
+			System.out.println("Done");
+
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
         DFAmini new_case = new DFAmini();
         new_case.make_equiv_class(new_case.dfa_mini(new_case.load_info(node_list), node_list, Final_Set, cins), node_list, cins);
     	
