@@ -9,6 +9,7 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
+import java.util.Map.Entry;
 import java.util.Stack;
 
 import java.io.BufferedWriter;
@@ -263,8 +264,10 @@ public class PTA implements Serializable {
 
     private ArrayList nodearr;
     int nodenum = 1;
+    int key_tmp;
     private void preOrderTraverse_Rec(Node node, int depth, StringBuilder sb, int node_id) {    	  	
         nodearr.add(node_id);
+
         //System.out.println(nodearr.toString());
         sb.append(StringUtil.space4Creator(depth));
 
@@ -272,7 +275,17 @@ public class PTA implements Serializable {
             nodenum = 0;
             sb.append("null\n");
         } else {
-            sb.append(node.toStringForPTA());
+        	if (node.getParent() != null) {
+        		for (Entry<Integer, Node> entry : node.getParent().getChildren().entrySet()) {
+        			if (entry.getValue().equals(node)) 
+        				key_tmp = entry.getKey();                
+                }
+        		//Symbol: 0	Num Out:414	Rec_B
+        		//                           e
+        		sb.append("Symbol: " + Integer.toString(key_tmp-1) + "\tNum Out:" +node.getParent().getNumOut(key_tmp)+ "\t" +node.toStringForPTA());
+        	}
+        	else
+        		sb.append(node.toStringForPTA());
             ArrayList<Integer> NodeAL = new ArrayList<>();
             HashMap<Integer, Node> Children = node.getChildren();
             for (Integer iKey : Children.keySet()) {
@@ -285,7 +298,7 @@ public class PTA implements Serializable {
                     sb.append("\n");
                     sb.append(StringUtil.space4Creator(depth+1));
                     //sb.append("Rec_Back_To_Node:" + child.getNodeID() + "\tSymbol: " + child.getSymbol() + "\n");
-                    sb.append("Symbol: " + sym + "\tRec_Back_To_Node:" + child.getNodeID() +  "\n");
+                    sb.append("Symbol: " + Integer.toString(sym-1) + "\tNum Out:" + node.getNumOut(sym) + "\tRec_Back_To_Node:" + child.getNodeID() +  "\n");
                     continue;
             	}
                 
@@ -368,7 +381,7 @@ public class PTA implements Serializable {
      //  postOrderTreeTraverse(sb, root);
 //
       preOrderTraverse_Rec(this.root, 0, sb, start_node_id);
-      System.out.println("Total Node number: " + nodenum);
+      //System.out.println("Total Node number: " + nodenum);
       return sb.toString();
 //    	return null;
 

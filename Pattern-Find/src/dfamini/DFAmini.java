@@ -15,7 +15,7 @@ public class DFAmini {
 		System.out.println("Hello DFA-mini!");
 		System.out.println("");
 		ArrayList<String> cins = new ArrayList<String>(Arrays.asList("0","1"));
-		///*
+		/*
 		node A = new node("A");
 		node B = new node("B");
 		node C = new node("C");
@@ -52,7 +52,7 @@ public class DFAmini {
 		
 		ArrayList <String> Final_Set = new ArrayList<>(new ArrayList(Arrays.asList("C")));
 		
-		//*/
+		*/
 		/*
 		node A = new node("A");
 		node B = new node("B");
@@ -90,16 +90,39 @@ public class DFAmini {
 		ArrayList <String> Final_Set = new ArrayList<>(new ArrayList(Arrays.asList("F","G")));
 		*/
 		
-		node_list.add(D);
+		node A = new node("A");
+		node B = new node("B");
+		node C = new node("C");
+		node D = new node("D");
+		
+		A.children.put("0", D);
+		A.children.put("1", B);
+		
+		B.children.put("0", C);
+		B.children.put("1", D);
+		
+		C.children.put("0", D);
+		C.children.put("1", D);
+		
+		D.children.put("0", D);
+		D.children.put("1", D);
+		
+		ArrayList <String> Final_Set = new ArrayList<>(new ArrayList(Arrays.asList("B")));
+		
+		node_list.add(A);
 		node_list.add(B);
-		
-		
-		node_list.add(E);
 		node_list.add(C);
+		node_list.add(D);
+		
+		
+		/*
+		node_list.add(E);
+		
 		node_list.add(H);
 		node_list.add(G);
 		node_list.add(F);
-		node_list.add(A);
+		*/
+		
 		
 		
 		
