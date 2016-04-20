@@ -401,7 +401,7 @@ public class PTA implements Serializable {
     	nodearr.add(cur_node.getNodeID());
     	int index = 0;
     	while (index < node_list_PTA.size()) {
-    		System.out.print(index + ": " + cur_node.getNodeID() + "-- ");
+    		//System.out.print(index + ": " + cur_node.getNodeID() + "-- ");
     		for (Integer key : cur_node.getChildren().keySet()) {
     			Node child = cur_node.getChild(key);
     			node tmp_child = new node(Integer.toString(child.getNodeID()));
@@ -410,11 +410,11 @@ public class PTA implements Serializable {
     				nodearr.add(child.getNodeID());
     				node_list.add(tmp_child);
     				node_list.get(index).children.put(Integer.toString(key-1), node_list.get(node_list.indexOf(tmp_child)));
-    				System.out.print(key + "--" + tmp_child.node_ID + " ");
+    				//System.out.print(key + "--" + tmp_child.node_ID + " ");
     			}
     			else {
     				node_list.get(index).children.put(Integer.toString(key-1), node_list.get(node_list_PTA.indexOf(child)));
-    				System.out.print(key + "--" + tmp_child.node_ID + " ");
+    				//System.out.print(key + "--" + tmp_child.node_ID + " ");
     			}
     	    }
     		index++;
@@ -432,8 +432,46 @@ public class PTA implements Serializable {
     			Final_Set.add((node_list.get(node_list_PTA.indexOf(tmp)).node_ID));
     		}
     	}
+    	
+    	
+    	node NULL = new node("NULL");
+    	for (node tmp : node_list) {
+	    	if (tmp.children.get("0") == null || tmp.children.get("1") == null) {
+	    		node_list.add(NULL);
+	    		node_list.get(node_list.indexOf(NULL)).children.put("0", node_list.get(node_list.indexOf(NULL)));
+	    		node_list.get(node_list.indexOf(NULL)).children.put("1", node_list.get(node_list.indexOf(NULL)));
+	    		break;
+    		}
+    		System.out.println("");
+    	}
+    	
+    	for (node tmp : node_list) {
+    		//System.out.print(tmp.node_ID + ": ");
+    		for (String cin : cins) {
+	    		if (tmp.children.get(cin) == null) {
+	    			tmp.children.put(cin, node_list.get(node_list.size()-1));
+	    			//System.out.print(cin + "--" + "null ");
+	    		}
 
-        
+    		}
+    		System.out.println("");
+    	}
+    	
+    	index = 0;
+    	for (node tmp : node_list) {
+    		System.out.print(index + ": " +"Node ID: " + tmp.node_ID + ": ");
+    		for (String cin : cins) {
+	    		if (tmp.children.get(cin) == null) {
+	    			System.out.print(cin + "--" + "null ");
+	    		}
+	    		else
+	    			System.out.print(cin + "--" + tmp.children.get(cin).node_ID + " ");
+    		}
+    		index ++;
+    		System.out.println("");
+    	}
+    	
+    	
     	System.out.println("STARTING MAKING DFA MINI");
     	
     	//Write jff file
@@ -461,7 +499,8 @@ public class PTA implements Serializable {
 			}
 			for (node tmpnode : node_list) {
 				for (String cin : cins) {
-					bw.write("    <transition>\n      <from>" + tmpnode.node_ID + "</from>\n      <to>" + tmpnode.children.get(cin).node_ID + "</to>\n      <read>" + cin + "</read>\n    </transition>\n");
+					if (tmpnode.children.get(cin) != null)
+						bw.write("    <transition>\n      <from>" + tmpnode.node_ID + "</from>\n      <to>" + tmpnode.children.get(cin).node_ID + "</to>\n      <read>" + cin + "</read>\n    </transition>\n");
 				}
 			}
 			bw.write("  </automaton>\n</structure>");

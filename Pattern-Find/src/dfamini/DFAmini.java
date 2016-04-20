@@ -269,13 +269,24 @@ public class DFAmini {
 		}
 		
 		for (equivclass tmp : equiv_class) {
+			System.out.println(tmp.class_children.size() + " ");
 			System.out.print("Class " + tmp.class_id + " : " );
 			for (node tmp_node : tmp.class_children) {
 				System.out.print(tmp_node.node_ID + " ");
 			}
 			System.out.println();
+			
 			for (String str : cins) {
-				System.out.print("C-" + str + ":" + tmp.class_children.get(0).children.get(str).e_class.class_id + " ");
+				int index = 0;
+				//while( index >= 0 ) {
+					//if (tmp.class_children.get(index).children.get(str) != null) {
+						System.out.print("C-" + str + ":" + tmp.class_children.get(index).children.get(str).e_class.class_id + " ");
+						//break;
+					//}
+					//else
+						//index ++;
+					//}
+					
 			}
 			System.out.println();
 		}
