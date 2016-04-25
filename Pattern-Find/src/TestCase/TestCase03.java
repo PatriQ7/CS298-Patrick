@@ -9,6 +9,7 @@ import Util.AYLogger;
 import java.io.File;
 import java.io.FilenameFilter;
 import java.text.DecimalFormat;
+import java.util.Properties;
 
 /*
  * This class tests for writer's pattern for various amount of parameters
@@ -26,7 +27,7 @@ public class TestCase03 {
     /**
      * TEST
      */
-    public static void test304(TestEngine testEngn) {
+    public static void test304(TestEngine testEngn, Properties config) {
 
         /*................. T E S T   D E S C R I P T I O N ..................*/
         String testMsg = "TEST CASE# 404 - REGULAR TEST FOR A ";
@@ -37,7 +38,8 @@ public class TestCase03 {
         double incr = Double.parseDouble(Config.getProperty("INC_ALPHA"));
         double upLimit = Double.parseDouble(Config.getProperty("END_ALPHA"));
 
-        String learnDescr = Config.getProperty("TRAINING_FILE");
+        //String learnDescr = Config.getProperty("TRAINING_FILE");
+        String learnDescr = config.getProperty("TRAINING_FILE");
         String testFolder = Config.getProperty("TEST_FOLDER");
         TypeCode coding = TypeCode.FUNCTION_WORD;
 

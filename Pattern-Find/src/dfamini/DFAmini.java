@@ -1,5 +1,9 @@
 package dfamini;
 
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.LinkedList;
@@ -267,7 +271,7 @@ public class DFAmini {
 			equiv_class.add(new_e_class);
 			last_node.e_class = new_e_class;
 		}
-		
+		/*
 		for (equivclass tmp : equiv_class) {
 			System.out.println(tmp.class_children.size() + " ");
 			System.out.print("Class " + tmp.class_id + " : " );
@@ -275,6 +279,7 @@ public class DFAmini {
 				System.out.print(tmp_node.node_ID + " ");
 			}
 			System.out.println();
+			
 			
 			for (String str : cins) {
 				int index = 0;
@@ -288,8 +293,22 @@ public class DFAmini {
 					//}
 					
 			}
-			System.out.println();
-		}
+			
+			
+			//System.out.println();
+		}*/
+		FileWriter fw_0 = null;
+    	BufferedWriter bw_0 = null;
+    	PrintWriter out = null;
+    	try {
+    	    fw_0 = new FileWriter("out_node_mini.txt", true);
+    	    bw_0 = new BufferedWriter(fw_0);
+    	    out = new PrintWriter(bw_0);
+    	    out.print(equiv_class.size() + ", ");
+    	    out.close();
+    	} catch (IOException e) {
+    	    //exception handling left as an exercise for the reader
+    	}
 		
 		return equiv_class;
 	}

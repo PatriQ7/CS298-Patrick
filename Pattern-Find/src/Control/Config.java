@@ -23,6 +23,23 @@ public class Config {
 		}
 	}
 	
+	public Properties new_Config(Properties config, String DataType) {
+		this.config = config;
+		this.DataType = DataType;
+			String configFN = DataType + "_config.cfg";
+			config = new Properties();
+			try {
+				config.load(new FileInputStream(configFN));
+			} catch (Exception e) {
+				e.printStackTrace();
+			}
+		return config;
+			
+		
+	}
+	
+	
+	
 	public static Properties getConfig()
 	{
 		return config;

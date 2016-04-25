@@ -25,7 +25,7 @@ public class PRGStarter {
 // ................. G L O B A L   P R I V A T E   V A R S ...................//
 
     /** hold configuration object which contains all initialization parameters. */
-    private static Properties config;
+   // private static Properties config;
 
 
 // ........................ C O N S T R U C T O R S ..........................//
@@ -40,29 +40,57 @@ public class PRGStarter {
      * @param args the application arguments
      * @throws FileNotFoundException 
      */
-    public static void main(String[] args) throws FileNotFoundException {
+    public static void main(String[] args) throws FileNotFoundException {   	
+        	
+        	Properties config = null;
+	        config = new Config().getConfig();
+    		
+	        File file = new File(config.getProperty("NEW_LOG_FILE"));	
+			FileOutputStream fos = new FileOutputStream(file);
+			PrintStream ps = new PrintStream(fos);
+	
+			System.out.println("Free Memory " + General.getMemory());
+			
+			General.createFile(config.getProperty("NEW_LOG_FILE"), "", false);
+			
+			AYLogger logger = new AYLogger(config);
+			logger.record(PRG_MSG);
+	
+			TestEngine testEngn = new TestEngine(config, logger);
+	
+			TestCase03.test304(testEngn, config);
+	
+			logger.closeLog();
+			
+			System.setOut(System.out);
+			System.out.println("Program Done");
 
-        config = Config.getConfig();
 
-        File file = new File(config.getProperty("NEW_LOG_FILE"));	
-		FileOutputStream fos = new FileOutputStream(file);
-		PrintStream ps = new PrintStream(fos);
+    } //main method
+    
+    public static void start(String[] args, Properties config) throws FileNotFoundException {   	
 
-		System.out.println("Free Memory " + General.getMemory());
-		
-		General.createFile(config.getProperty("NEW_LOG_FILE"), "", false);
-		
-		AYLogger logger = new AYLogger(config);
-		logger.record(PRG_MSG);
+    		
+	        File file = new File(config.getProperty("NEW_LOG_FILE"));	
+			FileOutputStream fos = new FileOutputStream(file);
+			PrintStream ps = new PrintStream(fos);
+	
+			System.out.println("Free Memory " + General.getMemory());
+			
+			General.createFile(config.getProperty("NEW_LOG_FILE"), "", false);
+			
+			AYLogger logger = new AYLogger(config);
+			logger.record(PRG_MSG);
+	
+			TestEngine testEngn = new TestEngine(config, logger);
+	
+			TestCase03.test304(testEngn, config);
+	
+			logger.closeLog();
+			
+			System.setOut(System.out);
+			System.out.println("Program Done");
 
-		TestEngine testEngn = new TestEngine(config, logger);
-
-		TestCase03.test304(testEngn);
-
-		logger.closeLog();
-		
-		System.setOut(System.out);
-		System.out.println("Program Done");
 
     } //main method
 

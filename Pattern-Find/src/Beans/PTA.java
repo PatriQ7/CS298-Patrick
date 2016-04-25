@@ -418,7 +418,7 @@ public class PTA implements Serializable {
     			}
     	    }
     		index++;
-    		System.out.println();
+    		//System.out.println();
     		//System.out.println("Round:" + index);
     		if (index == node_list_PTA.size())
     			break;
@@ -442,7 +442,7 @@ public class PTA implements Serializable {
 	    		node_list.get(node_list.indexOf(NULL)).children.put("1", node_list.get(node_list.indexOf(NULL)));
 	    		break;
     		}
-    		System.out.println("");
+    		//System.out.println("");
     	}
     	
     	for (node tmp : node_list) {
@@ -454,9 +454,10 @@ public class PTA implements Serializable {
 	    		}
 
     		}
-    		System.out.println("");
+    		//System.out.println("");
     	}
     	
+    	/*
     	index = 0;
     	for (node tmp : node_list) {
     		System.out.print(index + ": " +"Node ID: " + tmp.node_ID + ": ");
@@ -470,6 +471,20 @@ public class PTA implements Serializable {
     		index ++;
     		System.out.println("");
     	}
+    	*/
+    	
+    	FileWriter fw_0 = null;
+    	BufferedWriter bw_0 = null;
+    	PrintWriter out = null;
+    	try {
+    	    fw_0 = new FileWriter("out_node_alergia.txt", true);
+    	    bw_0 = new BufferedWriter(fw_0);
+    	    out = new PrintWriter(bw_0);
+    	    out.print(node_list.size() + ", ");
+    	    out.close();
+    	} catch (IOException e) {
+    	    //exception handling left as an exercise for the reader
+    	}
     	
     	
     	System.out.println("STARTING MAKING DFA MINI");
@@ -477,7 +492,7 @@ public class PTA implements Serializable {
     	//Write jff file
     	try {
 
-			String content = "This is the content to write into file +1";
+			//String content = "This is the content to write into file +1";
 
 			File file = new File("./filename.txt");
 
@@ -509,13 +524,14 @@ public class PTA implements Serializable {
 			
 			bw.close();
 
-			System.out.println("Done");
+			
 
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
         DFAmini new_case = new DFAmini();
         new_case.make_equiv_class(new_case.dfa_mini(new_case.load_info(node_list), node_list, Final_Set, cins), node_list, cins);
+        System.out.println("Done");
     	
     }
 
