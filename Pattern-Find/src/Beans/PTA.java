@@ -532,7 +532,6 @@ public class PTA implements Serializable {
         DFAmini new_case = new DFAmini();
         new_case.make_equiv_class(new_case.dfa_mini(new_case.load_info(node_list), node_list, Final_Set, cins), node_list, cins);
         System.out.println("Done");
-    	
     }
 
 

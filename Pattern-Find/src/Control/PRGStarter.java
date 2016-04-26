@@ -25,7 +25,7 @@ public class PRGStarter {
 // ................. G L O B A L   P R I V A T E   V A R S ...................//
 
     /** hold configuration object which contains all initialization parameters. */
-   // private static Properties config;
+   private static Properties config;
 
 
 // ........................ C O N S T R U C T O R S ..........................//
@@ -42,8 +42,7 @@ public class PRGStarter {
      */
     public static void main(String[] args) throws FileNotFoundException {   	
         	
-        	Properties config = null;
-	        config = new Config().getConfig();
+	        config = Config.getConfig();
     		
 	        File file = new File(config.getProperty("NEW_LOG_FILE"));	
 			FileOutputStream fos = new FileOutputStream(file);

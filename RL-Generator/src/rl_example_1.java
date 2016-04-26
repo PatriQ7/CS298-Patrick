@@ -28,7 +28,7 @@ public class rl_example_1 {
 	    	Random r = new Random();
 	    	int limit;
 	    	int Low = 0;
-	    	int High = 40;
+	    	int High = 20;
 	    	int max = 500 * i;
 	    	for (int j = 1; j <= max; j++) {
 	    		String line = "S";

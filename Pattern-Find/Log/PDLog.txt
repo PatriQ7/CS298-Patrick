@@ -23788,3 +23788,2244 @@ i  Alpha Doc01(%)
 04/25/2016@00:53 all alphas are processed.   elapsed: 454 Millisec, 
 04/25/2016@00:53 logger closed!
 
+04/25/2016@01:19 ********** PatternDiscovery Started! **************
+
+04/25/2016@01:19 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@01:19 test engine started.04/25/2016@01:19 processed alpha = 0.3   elapsed: 114 Millisec, 
+04/25/2016@01:19 all alphas are processed.   elapsed: 381 Millisec, 
+04/25/2016@01:19 logger closed!
+
+04/25/2016@01:19 ********** PatternDiscovery Started! **************
+
+04/25/2016@01:19 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@01:19 test engine started.04/25/2016@03:30 processed alpha = 0.3   elapsed:  2 Hour, 11 Min, 33 Sec, 688 Millisec, 
+04/25/2016@03:30 all alphas are processed.   elapsed:  2 Hour, 11 Min, 33 Sec, 879 Millisec, 
+04/25/2016@03:30 logger closed!
+
+04/25/2016@10:28 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:28 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:28 test engine started.04/25/2016@10:28 processed alpha = 0.3   elapsed: 24 Sec, 593 Millisec, 
+04/25/2016@10:28 all alphas are processed.   elapsed: 24 Sec, 770 Millisec, 
+04/25/2016@10:28 logger closed!
+
+04/25/2016@10:28 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:28 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:28 test engine started.04/25/2016@10:29 processed alpha = 0.3   elapsed: 13 Sec, 442 Millisec, 
+04/25/2016@10:29 all alphas are processed.   elapsed: 13 Sec, 563 Millisec, 
+04/25/2016@10:29 logger closed!
+
+04/25/2016@10:29 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:29 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:29 test engine started.04/25/2016@10:30 processed alpha = 0.3   elapsed:  1 Min, 17 Sec,  18 Millisec, 
+04/25/2016@10:30 all alphas are processed.   elapsed:  1 Min, 17 Sec, 103 Millisec, 
+04/25/2016@10:30 logger closed!
+
+04/25/2016@10:30 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:30 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:30 test engine started.04/25/2016@10:30 processed alpha = 0.3   elapsed: 985 Millisec, 
+04/25/2016@10:30 all alphas are processed.   elapsed:  1 Sec,  81 Millisec, 
+04/25/2016@10:30 logger closed!
+
+04/25/2016@10:30 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:30 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:30 test engine started.04/25/2016@10:30 processed alpha = 0.3   elapsed: 11 Sec, 494 Millisec, 
+04/25/2016@10:30 all alphas are processed.   elapsed: 11 Sec, 590 Millisec, 
+04/25/2016@10:30 logger closed!
+
+04/25/2016@10:30 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:30 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:30 test engine started.04/25/2016@10:30 processed alpha = 0.3   elapsed: 23 Sec, 497 Millisec, 
+04/25/2016@10:30 all alphas are processed.   elapsed: 23 Sec, 621 Millisec, 
+04/25/2016@10:30 logger closed!
+
+04/25/2016@10:30 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:30 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:30 test engine started.04/25/2016@10:31 processed alpha = 0.3   elapsed: 14 Sec, 825 Millisec, 
+04/25/2016@10:31 all alphas are processed.   elapsed: 14 Sec, 977 Millisec, 
+04/25/2016@10:31 logger closed!
+
+04/25/2016@10:31 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:31 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:31 test engine started.04/25/2016@10:31 processed alpha = 0.3   elapsed: 457 Millisec, 
+04/25/2016@10:31 all alphas are processed.   elapsed: 590 Millisec, 
+04/25/2016@10:31 logger closed!
+
+04/25/2016@10:31 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:31 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:31 test engine started.04/25/2016@10:31 processed alpha = 0.3   elapsed: 267 Millisec, 
+04/25/2016@10:31 all alphas are processed.   elapsed: 416 Millisec, 
+04/25/2016@10:31 logger closed!
+
+04/25/2016@10:31 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:31 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:31 test engine started.04/25/2016@10:31 processed alpha = 0.3   elapsed:  4 Sec, 404 Millisec, 
+04/25/2016@10:31 all alphas are processed.   elapsed:  4 Sec, 584 Millisec, 
+04/25/2016@10:31 logger closed!
+
+04/25/2016@10:31 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:31 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:31 test engine started.04/25/2016@10:31 processed alpha = 0.3   elapsed:  8 Sec, 956 Millisec, 
+04/25/2016@10:31 all alphas are processed.   elapsed:  9 Sec, 134 Millisec, 
+04/25/2016@10:31 logger closed!
+
+04/25/2016@10:31 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:31 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:31 test engine started.04/25/2016@10:31 processed alpha = 0.3   elapsed:  8 Sec, 770 Millisec, 
+04/25/2016@10:31 all alphas are processed.   elapsed:  9 Sec,   3 Millisec, 
+04/25/2016@10:31 logger closed!
+
+04/25/2016@10:31 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:31 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:31 test engine started.04/25/2016@10:31 processed alpha = 0.3   elapsed: 12 Sec,  65 Millisec, 
+04/25/2016@10:31 all alphas are processed.   elapsed: 12 Sec, 285 Millisec, 
+04/25/2016@10:31 logger closed!
+
+04/25/2016@10:31 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:31 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:31 test engine started.04/25/2016@10:31 processed alpha = 0.3   elapsed: 482 Millisec, 
+04/25/2016@10:31 all alphas are processed.   elapsed: 709 Millisec, 
+04/25/2016@10:31 logger closed!
+
+04/25/2016@10:31 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:31 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:31 test engine started.04/25/2016@10:32 processed alpha = 0.3   elapsed: 14 Sec, 573 Millisec, 
+04/25/2016@10:32 all alphas are processed.   elapsed: 14 Sec, 811 Millisec, 
+04/25/2016@10:32 logger closed!
+
+04/25/2016@10:32 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:32 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:32 test engine started.04/25/2016@10:32 processed alpha = 0.3   elapsed: 945 Millisec, 
+04/25/2016@10:32 all alphas are processed.   elapsed:  1 Sec, 190 Millisec, 
+04/25/2016@10:32 logger closed!
+
+04/25/2016@10:32 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:32 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:32 test engine started.04/25/2016@10:32 processed alpha = 0.3   elapsed:  1 Sec,  82 Millisec, 
+04/25/2016@10:32 all alphas are processed.   elapsed:  1 Sec, 357 Millisec, 
+04/25/2016@10:32 logger closed!
+
+04/25/2016@10:32 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:32 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:32 test engine started.04/25/2016@10:32 processed alpha = 0.3   elapsed: 32 Sec, 797 Millisec, 
+04/25/2016@10:32 all alphas are processed.   elapsed: 33 Sec,  74 Millisec, 
+04/25/2016@10:32 logger closed!
+
+04/25/2016@10:32 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:32 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:32 test engine started.04/25/2016@10:32 processed alpha = 0.3   elapsed:  1 Sec, 333 Millisec, 
+04/25/2016@10:32 all alphas are processed.   elapsed:  1 Sec, 629 Millisec, 
+04/25/2016@10:32 logger closed!
+
+04/25/2016@10:32 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:32 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:32 test engine started.04/25/2016@10:32 processed alpha = 0.3   elapsed: 841 Millisec, 
+04/25/2016@10:32 all alphas are processed.   elapsed:  1 Sec, 153 Millisec, 
+04/25/2016@10:32 logger closed!
+
+04/25/2016@10:32 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:32 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:32 test engine started.04/25/2016@10:32 processed alpha = 0.3   elapsed:  1 Sec, 560 Millisec, 
+04/25/2016@10:32 all alphas are processed.   elapsed:  1 Sec, 916 Millisec, 
+04/25/2016@10:32 logger closed!
+
+04/25/2016@10:32 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:32 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:32 test engine started.04/25/2016@10:32 processed alpha = 0.3   elapsed:  1 Sec,  61 Millisec, 
+04/25/2016@10:32 all alphas are processed.   elapsed:  1 Sec, 380 Millisec, 
+04/25/2016@10:32 logger closed!
+
+04/25/2016@10:32 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:32 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:32 test engine started.04/25/2016@10:32 processed alpha = 0.3   elapsed: 914 Millisec, 
+04/25/2016@10:32 all alphas are processed.   elapsed:  1 Sec, 261 Millisec, 
+04/25/2016@10:32 logger closed!
+
+04/25/2016@10:32 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:32 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:32 test engine started.04/25/2016@10:32 processed alpha = 0.3   elapsed:  1 Sec, 977 Millisec, 
+04/25/2016@10:32 all alphas are processed.   elapsed:  2 Sec, 328 Millisec, 
+04/25/2016@10:32 logger closed!
+
+04/25/2016@10:32 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:32 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:32 test engine started.04/25/2016@10:32 processed alpha = 0.3   elapsed:  2 Sec, 171 Millisec, 
+04/25/2016@10:32 all alphas are processed.   elapsed:  2 Sec, 546 Millisec, 
+04/25/2016@10:32 logger closed!
+
+04/25/2016@10:32 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:32 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:32 test engine started.04/25/2016@10:32 processed alpha = 0.3   elapsed:  1 Sec, 230 Millisec, 
+04/25/2016@10:32 all alphas are processed.   elapsed:  1 Sec, 636 Millisec, 
+04/25/2016@10:32 logger closed!
+
+04/25/2016@10:32 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:32 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:32 test engine started.04/25/2016@10:32 processed alpha = 0.3   elapsed:  1 Sec, 235 Millisec, 
+04/25/2016@10:32 all alphas are processed.   elapsed:  1 Sec, 634 Millisec, 
+04/25/2016@10:32 logger closed!
+
+04/25/2016@10:32 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:32 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:32 test engine started.04/25/2016@10:32 processed alpha = 0.3   elapsed:  1 Sec, 596 Millisec, 
+04/25/2016@10:32 all alphas are processed.   elapsed:  2 Sec, 208 Millisec, 
+04/25/2016@10:32 logger closed!
+
+04/25/2016@10:32 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:32 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:32 test engine started.04/25/2016@10:33 processed alpha = 0.3   elapsed:  1 Sec, 450 Millisec, 
+04/25/2016@10:33 all alphas are processed.   elapsed:  1 Sec, 902 Millisec, 
+04/25/2016@10:33 logger closed!
+
+04/25/2016@10:33 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:33 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:33 test engine started.04/25/2016@10:33 processed alpha = 0.3   elapsed:  1 Sec, 600 Millisec, 
+04/25/2016@10:33 all alphas are processed.   elapsed:  2 Sec,  68 Millisec, 
+04/25/2016@10:33 logger closed!
+
+04/25/2016@10:33 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:33 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:33 test engine started.04/25/2016@10:33 processed alpha = 0.3   elapsed:  1 Sec, 653 Millisec, 
+04/25/2016@10:33 all alphas are processed.   elapsed:  2 Sec, 117 Millisec, 
+04/25/2016@10:33 logger closed!
+
+04/25/2016@10:33 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:33 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:33 test engine started.04/25/2016@10:33 processed alpha = 0.3   elapsed:  1 Sec, 987 Millisec, 
+04/25/2016@10:33 all alphas are processed.   elapsed:  2 Sec, 457 Millisec, 
+04/25/2016@10:33 logger closed!
+
+04/25/2016@10:33 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:33 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:33 test engine started.04/25/2016@10:33 processed alpha = 0.3   elapsed:  1 Sec, 765 Millisec, 
+04/25/2016@10:33 all alphas are processed.   elapsed:  2 Sec, 304 Millisec, 
+04/25/2016@10:33 logger closed!
+
+04/25/2016@10:33 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:33 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:33 test engine started.04/25/2016@10:33 processed alpha = 0.3   elapsed:  1 Sec, 938 Millisec, 
+04/25/2016@10:33 all alphas are processed.   elapsed:  2 Sec, 467 Millisec, 
+04/25/2016@10:33 logger closed!
+
+04/25/2016@10:33 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:33 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:33 test engine started.04/25/2016@10:33 processed alpha = 0.3   elapsed:  1 Sec, 932 Millisec, 
+04/25/2016@10:33 all alphas are processed.   elapsed:  2 Sec, 480 Millisec, 
+04/25/2016@10:33 logger closed!
+
+04/25/2016@10:33 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:33 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:33 test engine started.04/25/2016@10:33 processed alpha = 0.3   elapsed:  1 Sec, 965 Millisec, 
+04/25/2016@10:33 all alphas are processed.   elapsed:  2 Sec, 506 Millisec, 
+04/25/2016@10:33 logger closed!
+
+04/25/2016@10:33 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:33 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:33 test engine started.04/25/2016@10:33 processed alpha = 0.3   elapsed:  2 Sec, 279 Millisec, 
+04/25/2016@10:33 all alphas are processed.   elapsed:  2 Sec, 885 Millisec, 
+04/25/2016@10:33 logger closed!
+
+04/25/2016@10:33 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:33 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:33 test engine started.04/25/2016@10:33 processed alpha = 0.3   elapsed:  2 Sec, 319 Millisec, 
+04/25/2016@10:33 all alphas are processed.   elapsed:  2 Sec, 876 Millisec, 
+04/25/2016@10:33 logger closed!
+
+04/25/2016@10:33 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:33 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:33 test engine started.04/25/2016@10:33 processed alpha = 0.3   elapsed:  2 Sec,  92 Millisec, 
+04/25/2016@10:33 all alphas are processed.   elapsed:  2 Sec, 701 Millisec, 
+04/25/2016@10:33 logger closed!
+
+04/25/2016@10:33 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:33 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:33 test engine started.04/25/2016@10:33 processed alpha = 0.3   elapsed:  2 Sec, 733 Millisec, 
+04/25/2016@10:33 all alphas are processed.   elapsed:  3 Sec, 329 Millisec, 
+04/25/2016@10:33 logger closed!
+
+04/25/2016@10:33 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:33 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:33 test engine started.04/25/2016@10:33 processed alpha = 0.3   elapsed:  2 Sec, 584 Millisec, 
+04/25/2016@10:33 all alphas are processed.   elapsed:  3 Sec, 300 Millisec, 
+04/25/2016@10:33 logger closed!
+
+04/25/2016@10:33 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:33 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:33 test engine started.04/25/2016@10:33 processed alpha = 0.3   elapsed:  2 Sec, 589 Millisec, 
+04/25/2016@10:33 all alphas are processed.   elapsed:  3 Sec, 216 Millisec, 
+04/25/2016@10:33 logger closed!
+
+04/25/2016@10:33 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:33 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:33 test engine started.04/25/2016@10:33 processed alpha = 0.3   elapsed:  2 Sec, 934 Millisec, 
+04/25/2016@10:33 all alphas are processed.   elapsed:  3 Sec, 568 Millisec, 
+04/25/2016@10:33 logger closed!
+
+04/25/2016@10:33 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:33 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:33 test engine started.04/25/2016@10:33 processed alpha = 0.3   elapsed:  2 Sec, 873 Millisec, 
+04/25/2016@10:33 all alphas are processed.   elapsed:  3 Sec, 650 Millisec, 
+04/25/2016@10:33 logger closed!
+
+04/25/2016@10:33 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:33 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:33 test engine started.04/25/2016@10:33 processed alpha = 0.3   elapsed:  2 Sec, 882 Millisec, 
+04/25/2016@10:33 all alphas are processed.   elapsed:  3 Sec, 563 Millisec, 
+04/25/2016@10:33 logger closed!
+
+04/25/2016@10:33 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:33 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:33 test engine started.04/25/2016@10:33 processed alpha = 0.3   elapsed:  3 Sec, 366 Millisec, 
+04/25/2016@10:33 all alphas are processed.   elapsed:  4 Sec,  26 Millisec, 
+04/25/2016@10:33 logger closed!
+
+04/25/2016@10:33 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:33 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:33 test engine started.04/25/2016@10:33 processed alpha = 0.3   elapsed:  3 Sec,  88 Millisec, 
+04/25/2016@10:33 all alphas are processed.   elapsed:  3 Sec, 774 Millisec, 
+04/25/2016@10:33 logger closed!
+
+04/25/2016@10:33 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:33 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:33 test engine started.04/25/2016@10:33 processed alpha = 0.3   elapsed:  3 Sec, 416 Millisec, 
+04/25/2016@10:33 all alphas are processed.   elapsed:  4 Sec, 111 Millisec, 
+04/25/2016@10:33 logger closed!
+
+04/25/2016@10:33 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:33 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:33 test engine started.04/25/2016@10:34 processed alpha = 0.3   elapsed:  3 Sec, 311 Millisec, 
+04/25/2016@10:34 all alphas are processed.   elapsed:  3 Sec, 999 Millisec, 
+04/25/2016@10:34 logger closed!
+
+04/25/2016@10:34 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:34 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:34 test engine started.04/25/2016@10:34 processed alpha = 0.3   elapsed:  3 Sec, 908 Millisec, 
+04/25/2016@10:34 all alphas are processed.   elapsed:  4 Sec, 618 Millisec, 
+04/25/2016@10:34 logger closed!
+
+04/25/2016@10:34 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:34 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:34 test engine started.04/25/2016@10:34 processed alpha = 0.3   elapsed:  3 Sec, 305 Millisec, 
+04/25/2016@10:34 all alphas are processed.   elapsed:  4 Sec,  47 Millisec, 
+04/25/2016@10:34 logger closed!
+
+04/25/2016@10:34 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:34 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:34 test engine started.04/25/2016@10:34 processed alpha = 0.3   elapsed:  3 Sec, 791 Millisec, 
+04/25/2016@10:34 all alphas are processed.   elapsed:  4 Sec, 544 Millisec, 
+04/25/2016@10:34 logger closed!
+
+04/25/2016@10:34 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:34 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:34 test engine started.04/25/2016@10:34 processed alpha = 0.3   elapsed:  3 Sec, 956 Millisec, 
+04/25/2016@10:34 all alphas are processed.   elapsed:  4 Sec, 715 Millisec, 
+04/25/2016@10:34 logger closed!
+
+04/25/2016@10:34 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:34 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:34 test engine started.04/25/2016@10:34 processed alpha = 0.3   elapsed:  3 Sec, 704 Millisec, 
+04/25/2016@10:34 all alphas are processed.   elapsed:  4 Sec, 481 Millisec, 
+04/25/2016@10:34 logger closed!
+
+04/25/2016@10:34 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:34 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:34 test engine started.04/25/2016@10:34 processed alpha = 0.3   elapsed:  4 Sec,  25 Millisec, 
+04/25/2016@10:34 all alphas are processed.   elapsed:  4 Sec, 803 Millisec, 
+04/25/2016@10:34 logger closed!
+
+04/25/2016@10:34 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:34 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:34 test engine started.04/25/2016@10:34 processed alpha = 0.3   elapsed:  4 Sec, 344 Millisec, 
+04/25/2016@10:34 all alphas are processed.   elapsed:  5 Sec, 163 Millisec, 
+04/25/2016@10:34 logger closed!
+
+04/25/2016@10:34 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:34 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:34 test engine started.04/25/2016@10:34 processed alpha = 0.3   elapsed:  4 Sec, 447 Millisec, 
+04/25/2016@10:34 all alphas are processed.   elapsed:  5 Sec, 276 Millisec, 
+04/25/2016@10:34 logger closed!
+
+04/25/2016@10:34 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:34 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:34 test engine started.04/25/2016@10:34 processed alpha = 0.3   elapsed:  4 Sec, 263 Millisec, 
+04/25/2016@10:34 all alphas are processed.   elapsed:  5 Sec, 123 Millisec, 
+04/25/2016@10:34 logger closed!
+
+04/25/2016@10:34 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:34 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:34 test engine started.04/25/2016@10:34 processed alpha = 0.3   elapsed:  4 Sec, 595 Millisec, 
+04/25/2016@10:34 all alphas are processed.   elapsed:  5 Sec, 478 Millisec, 
+04/25/2016@10:34 logger closed!
+
+04/25/2016@10:34 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:34 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:34 test engine started.04/25/2016@10:34 processed alpha = 0.3   elapsed:  4 Sec, 776 Millisec, 
+04/25/2016@10:34 all alphas are processed.   elapsed:  5 Sec, 640 Millisec, 
+04/25/2016@10:34 logger closed!
+
+04/25/2016@10:34 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:34 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:34 test engine started.04/25/2016@10:35 processed alpha = 0.3   elapsed:  5 Sec, 114 Millisec, 
+04/25/2016@10:35 all alphas are processed.   elapsed:  5 Sec, 984 Millisec, 
+04/25/2016@10:35 logger closed!
+
+04/25/2016@10:35 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:35 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:35 test engine started.04/25/2016@10:35 processed alpha = 0.3   elapsed:  4 Sec, 994 Millisec, 
+04/25/2016@10:35 all alphas are processed.   elapsed:  5 Sec, 884 Millisec, 
+04/25/2016@10:35 logger closed!
+
+04/25/2016@10:35 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:35 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:35 test engine started.04/25/2016@10:35 processed alpha = 0.3   elapsed:  4 Sec, 897 Millisec, 
+04/25/2016@10:35 all alphas are processed.   elapsed:  5 Sec, 863 Millisec, 
+04/25/2016@10:35 logger closed!
+
+04/25/2016@10:35 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:35 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:35 test engine started.04/25/2016@10:35 processed alpha = 0.3   elapsed:  5 Sec, 426 Millisec, 
+04/25/2016@10:35 all alphas are processed.   elapsed:  6 Sec, 374 Millisec, 
+04/25/2016@10:35 logger closed!
+
+04/25/2016@10:35 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:35 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:35 test engine started.04/25/2016@10:35 processed alpha = 0.3   elapsed:  5 Sec, 303 Millisec, 
+04/25/2016@10:35 all alphas are processed.   elapsed:  6 Sec, 274 Millisec, 
+04/25/2016@10:35 logger closed!
+
+04/25/2016@10:35 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:35 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:35 test engine started.04/25/2016@10:35 processed alpha = 0.3   elapsed:  5 Sec, 522 Millisec, 
+04/25/2016@10:35 all alphas are processed.   elapsed:  6 Sec, 496 Millisec, 
+04/25/2016@10:35 logger closed!
+
+04/25/2016@10:35 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:35 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:35 test engine started.04/25/2016@10:35 processed alpha = 0.3   elapsed:  6 Sec,  78 Millisec, 
+04/25/2016@10:35 all alphas are processed.   elapsed:  7 Sec,  35 Millisec, 
+04/25/2016@10:35 logger closed!
+
+04/25/2016@10:35 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:35 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:35 test engine started.04/25/2016@10:35 processed alpha = 0.3   elapsed:  5 Sec, 994 Millisec, 
+04/25/2016@10:35 all alphas are processed.   elapsed:  6 Sec, 993 Millisec, 
+04/25/2016@10:35 logger closed!
+
+04/25/2016@10:35 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:35 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:35 test engine started.04/25/2016@10:35 processed alpha = 0.3   elapsed:  5 Sec, 768 Millisec, 
+04/25/2016@10:35 all alphas are processed.   elapsed:  6 Sec, 761 Millisec, 
+04/25/2016@10:35 logger closed!
+
+04/25/2016@10:35 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:35 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:35 test engine started.04/25/2016@10:36 processed alpha = 0.3   elapsed:  6 Sec, 167 Millisec, 
+04/25/2016@10:36 all alphas are processed.   elapsed:  7 Sec, 168 Millisec, 
+04/25/2016@10:36 logger closed!
+
+04/25/2016@10:36 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:36 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:36 test engine started.04/25/2016@10:36 processed alpha = 0.3   elapsed:  6 Sec,  64 Millisec, 
+04/25/2016@10:36 all alphas are processed.   elapsed:  7 Sec, 104 Millisec, 
+04/25/2016@10:36 logger closed!
+
+04/25/2016@10:36 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:36 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:36 test engine started.04/25/2016@10:36 processed alpha = 0.3   elapsed:  6 Sec, 266 Millisec, 
+04/25/2016@10:36 all alphas are processed.   elapsed:  7 Sec, 314 Millisec, 
+04/25/2016@10:36 logger closed!
+
+04/25/2016@10:36 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:36 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:36 test engine started.04/25/2016@10:36 processed alpha = 0.3   elapsed:  6 Sec, 949 Millisec, 
+04/25/2016@10:36 all alphas are processed.   elapsed:  8 Sec,   9 Millisec, 
+04/25/2016@10:36 logger closed!
+
+04/25/2016@10:36 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:36 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:36 test engine started.04/25/2016@10:36 processed alpha = 0.3   elapsed:  6 Sec, 640 Millisec, 
+04/25/2016@10:36 all alphas are processed.   elapsed:  7 Sec, 688 Millisec, 
+04/25/2016@10:36 logger closed!
+
+04/25/2016@10:36 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:36 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:36 test engine started.04/25/2016@10:36 processed alpha = 0.3   elapsed:  6 Sec, 711 Millisec, 
+04/25/2016@10:36 all alphas are processed.   elapsed:  7 Sec, 787 Millisec, 
+04/25/2016@10:36 logger closed!
+
+04/25/2016@10:36 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:36 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:36 test engine started.04/25/2016@10:36 processed alpha = 0.3   elapsed:  7 Sec, 237 Millisec, 
+04/25/2016@10:36 all alphas are processed.   elapsed:  8 Sec, 388 Millisec, 
+04/25/2016@10:36 logger closed!
+
+04/25/2016@10:36 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:36 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:36 test engine started.04/25/2016@10:36 processed alpha = 0.3   elapsed:  7 Sec,  25 Millisec, 
+04/25/2016@10:36 all alphas are processed.   elapsed:  8 Sec, 115 Millisec, 
+04/25/2016@10:36 logger closed!
+
+04/25/2016@10:36 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:36 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:36 test engine started.04/25/2016@10:37 processed alpha = 0.3   elapsed:  7 Sec, 643 Millisec, 
+04/25/2016@10:37 all alphas are processed.   elapsed:  8 Sec, 745 Millisec, 
+04/25/2016@10:37 logger closed!
+
+04/25/2016@10:37 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:37 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:37 test engine started.04/25/2016@10:37 processed alpha = 0.3   elapsed:  7 Sec, 341 Millisec, 
+04/25/2016@10:37 all alphas are processed.   elapsed:  8 Sec, 492 Millisec, 
+04/25/2016@10:37 logger closed!
+
+04/25/2016@10:37 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:37 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:37 test engine started.04/25/2016@10:37 processed alpha = 0.3   elapsed:  7 Sec, 561 Millisec, 
+04/25/2016@10:37 all alphas are processed.   elapsed:  8 Sec, 755 Millisec, 
+04/25/2016@10:37 logger closed!
+
+04/25/2016@10:37 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:37 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:37 test engine started.04/25/2016@10:37 processed alpha = 0.3   elapsed:  8 Sec, 338 Millisec, 
+04/25/2016@10:37 all alphas are processed.   elapsed:  9 Sec, 490 Millisec, 
+04/25/2016@10:37 logger closed!
+
+04/25/2016@10:37 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:37 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:37 test engine started.04/25/2016@10:37 processed alpha = 0.3   elapsed:  7 Sec, 793 Millisec, 
+04/25/2016@10:37 all alphas are processed.   elapsed:  8 Sec, 954 Millisec, 
+04/25/2016@10:37 logger closed!
+
+04/25/2016@10:37 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:37 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:37 test engine started.04/25/2016@10:37 processed alpha = 0.3   elapsed:  8 Sec,  38 Millisec, 
+04/25/2016@10:37 all alphas are processed.   elapsed:  9 Sec, 260 Millisec, 
+04/25/2016@10:37 logger closed!
+
+04/25/2016@10:37 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:37 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:37 test engine started.04/25/2016@10:38 processed alpha = 0.3   elapsed:  8 Sec, 566 Millisec, 
+04/25/2016@10:38 all alphas are processed.   elapsed:  9 Sec, 808 Millisec, 
+04/25/2016@10:38 logger closed!
+
+04/25/2016@10:38 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:38 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:38 test engine started.04/25/2016@10:38 processed alpha = 0.3   elapsed:  8 Sec, 447 Millisec, 
+04/25/2016@10:38 all alphas are processed.   elapsed:  9 Sec, 673 Millisec, 
+04/25/2016@10:38 logger closed!
+
+04/25/2016@10:38 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:38 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:38 test engine started.04/25/2016@10:38 processed alpha = 0.3   elapsed:  8 Sec, 500 Millisec, 
+04/25/2016@10:38 all alphas are processed.   elapsed:  9 Sec, 748 Millisec, 
+04/25/2016@10:38 logger closed!
+
+04/25/2016@10:38 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:38 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:38 test engine started.04/25/2016@10:38 processed alpha = 0.3   elapsed:  8 Sec, 669 Millisec, 
+04/25/2016@10:38 all alphas are processed.   elapsed: 10 Sec, 431 Millisec, 
+04/25/2016@10:38 logger closed!
+
+04/25/2016@10:38 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:38 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:38 test engine started.04/25/2016@10:38 processed alpha = 0.3   elapsed:  8 Sec, 927 Millisec, 
+04/25/2016@10:38 all alphas are processed.   elapsed: 10 Sec, 205 Millisec, 
+04/25/2016@10:38 logger closed!
+
+04/25/2016@10:38 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:38 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:38 test engine started.04/25/2016@10:38 processed alpha = 0.3   elapsed:  8 Sec, 655 Millisec, 
+04/25/2016@10:38 all alphas are processed.   elapsed:  9 Sec, 909 Millisec, 
+04/25/2016@10:38 logger closed!
+
+04/25/2016@10:38 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:38 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:38 test engine started.04/25/2016@10:39 processed alpha = 0.3   elapsed:  9 Sec, 500 Millisec, 
+04/25/2016@10:39 all alphas are processed.   elapsed: 10 Sec, 793 Millisec, 
+04/25/2016@10:39 logger closed!
+
+04/25/2016@10:39 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:39 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:39 test engine started.04/25/2016@10:39 processed alpha = 0.3   elapsed:  9 Sec, 880 Millisec, 
+04/25/2016@10:39 all alphas are processed.   elapsed: 11 Sec, 268 Millisec, 
+04/25/2016@10:39 logger closed!
+
+04/25/2016@10:39 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:39 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:39 test engine started.04/25/2016@10:39 processed alpha = 0.3   elapsed:  9 Sec, 789 Millisec, 
+04/25/2016@10:39 all alphas are processed.   elapsed: 11 Sec,  87 Millisec, 
+04/25/2016@10:39 logger closed!
+
+04/25/2016@10:39 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:39 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:39 test engine started.04/25/2016@10:39 processed alpha = 0.3   elapsed: 10 Sec, 312 Millisec, 
+04/25/2016@10:39 all alphas are processed.   elapsed: 11 Sec, 637 Millisec, 
+04/25/2016@10:39 logger closed!
+
+04/25/2016@10:39 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:39 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:39 test engine started.04/25/2016@10:39 processed alpha = 0.3   elapsed: 10 Sec, 402 Millisec, 
+04/25/2016@10:39 all alphas are processed.   elapsed: 11 Sec, 710 Millisec, 
+04/25/2016@10:39 logger closed!
+
+04/25/2016@10:39 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:39 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:39 test engine started.04/25/2016@10:40 processed alpha = 0.3   elapsed: 10 Sec, 488 Millisec, 
+04/25/2016@10:40 all alphas are processed.   elapsed: 11 Sec, 845 Millisec, 
+04/25/2016@10:40 logger closed!
+
+04/25/2016@10:40 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:40 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:40 test engine started.04/25/2016@10:40 processed alpha = 0.3   elapsed: 10 Sec, 599 Millisec, 
+04/25/2016@10:40 all alphas are processed.   elapsed: 11 Sec, 968 Millisec, 
+04/25/2016@10:40 logger closed!
+
+04/25/2016@10:40 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:40 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:40 test engine started.04/25/2016@10:40 processed alpha = 0.3   elapsed: 10 Sec, 448 Millisec, 
+04/25/2016@10:40 all alphas are processed.   elapsed: 11 Sec, 841 Millisec, 
+04/25/2016@10:40 logger closed!
+
+04/25/2016@10:40 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:40 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:40 test engine started.04/25/2016@10:40 processed alpha = 0.3   elapsed: 10 Sec, 496 Millisec, 
+04/25/2016@10:40 all alphas are processed.   elapsed: 11 Sec, 914 Millisec, 
+04/25/2016@10:40 logger closed!
+
+04/25/2016@10:40 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:40 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:40 test engine started.04/25/2016@10:40 processed alpha = 0.3   elapsed: 11 Sec, 365 Millisec, 
+04/25/2016@10:40 all alphas are processed.   elapsed: 12 Sec, 761 Millisec, 
+04/25/2016@10:40 logger closed!
+
+04/25/2016@10:40 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:40 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:40 test engine started.04/25/2016@10:41 processed alpha = 0.3   elapsed: 11 Sec, 892 Millisec, 
+04/25/2016@10:41 all alphas are processed.   elapsed: 13 Sec, 317 Millisec, 
+04/25/2016@10:41 logger closed!
+
+04/25/2016@10:54 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:54 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:54 test engine started.04/25/2016@10:54 processed alpha = 0.4   elapsed: 48 Sec, 908 Millisec, 
+04/25/2016@10:54 all alphas are processed.   elapsed: 49 Sec, 103 Millisec, 
+04/25/2016@10:54 logger closed!
+
+04/25/2016@10:54 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:54 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:54 test engine started.04/25/2016@10:55 processed alpha = 0.4   elapsed: 20 Sec, 760 Millisec, 
+04/25/2016@10:55 all alphas are processed.   elapsed: 20 Sec, 892 Millisec, 
+04/25/2016@10:55 logger closed!
+
+04/25/2016@10:55 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:55 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:55 test engine started.04/25/2016@10:56 processed alpha = 0.4   elapsed:  1 Min, 42 Sec, 158 Millisec, 
+04/25/2016@10:56 all alphas are processed.   elapsed:  1 Min, 42 Sec, 249 Millisec, 
+04/25/2016@10:56 logger closed!
+
+04/25/2016@10:56 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:56 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:56 test engine started.04/25/2016@10:56 processed alpha = 0.4   elapsed:  1 Sec,  71 Millisec, 
+04/25/2016@10:56 all alphas are processed.   elapsed:  1 Sec, 267 Millisec, 
+04/25/2016@10:56 logger closed!
+
+04/25/2016@10:56 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:56 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:56 test engine started.04/25/2016@10:56 processed alpha = 0.4   elapsed: 212 Millisec, 
+04/25/2016@10:56 all alphas are processed.   elapsed: 311 Millisec, 
+04/25/2016@10:56 logger closed!
+
+04/25/2016@10:56 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:56 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:56 test engine started.04/25/2016@10:57 processed alpha = 0.4   elapsed: 19 Sec,  84 Millisec, 
+04/25/2016@10:57 all alphas are processed.   elapsed: 19 Sec, 229 Millisec, 
+04/25/2016@10:57 logger closed!
+
+04/25/2016@10:57 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:57 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:57 test engine started.04/25/2016@10:57 processed alpha = 0.4   elapsed:  5 Sec, 800 Millisec, 
+04/25/2016@10:57 all alphas are processed.   elapsed:  5 Sec, 932 Millisec, 
+04/25/2016@10:57 logger closed!
+
+04/25/2016@10:57 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:57 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:57 test engine started.04/25/2016@10:57 processed alpha = 0.4   elapsed: 27 Sec, 278 Millisec, 
+04/25/2016@10:57 all alphas are processed.   elapsed: 27 Sec, 498 Millisec, 
+04/25/2016@10:57 logger closed!
+
+04/25/2016@10:57 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:57 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:57 test engine started.04/25/2016@10:57 processed alpha = 0.4   elapsed:  5 Sec, 186 Millisec, 
+04/25/2016@10:57 all alphas are processed.   elapsed:  5 Sec, 338 Millisec, 
+04/25/2016@10:57 logger closed!
+
+04/25/2016@10:57 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:57 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:57 test engine started.04/25/2016@10:58 processed alpha = 0.4   elapsed:  7 Sec, 144 Millisec, 
+04/25/2016@10:58 all alphas are processed.   elapsed:  7 Sec, 335 Millisec, 
+04/25/2016@10:58 logger closed!
+
+04/25/2016@10:58 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:58 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:58 test engine started.04/25/2016@10:58 processed alpha = 0.4   elapsed: 49 Sec, 939 Millisec, 
+04/25/2016@10:58 all alphas are processed.   elapsed: 50 Sec, 125 Millisec, 
+04/25/2016@10:58 logger closed!
+
+04/25/2016@10:58 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:58 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:58 test engine started.04/25/2016@10:58 processed alpha = 0.4   elapsed: 815 Millisec, 
+04/25/2016@10:58 all alphas are processed.   elapsed:  1 Sec,  29 Millisec, 
+04/25/2016@10:58 logger closed!
+
+04/25/2016@10:58 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:58 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:58 test engine started.04/25/2016@10:58 processed alpha = 0.4   elapsed: 762 Millisec, 
+04/25/2016@10:58 all alphas are processed.   elapsed: 973 Millisec, 
+04/25/2016@10:58 logger closed!
+
+04/25/2016@10:58 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:58 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:58 test engine started.04/25/2016@10:58 processed alpha = 0.4   elapsed:  1 Sec, 140 Millisec, 
+04/25/2016@10:58 all alphas are processed.   elapsed:  1 Sec, 355 Millisec, 
+04/25/2016@10:58 logger closed!
+
+04/25/2016@10:58 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:58 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:58 test engine started.04/25/2016@10:58 processed alpha = 0.4   elapsed:  1 Sec, 181 Millisec, 
+04/25/2016@10:58 all alphas are processed.   elapsed:  1 Sec, 410 Millisec, 
+04/25/2016@10:58 logger closed!
+
+04/25/2016@10:58 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:58 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:58 test engine started.04/25/2016@10:58 processed alpha = 0.4   elapsed: 948 Millisec, 
+04/25/2016@10:58 all alphas are processed.   elapsed:  1 Sec, 192 Millisec, 
+04/25/2016@10:58 logger closed!
+
+04/25/2016@10:58 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:58 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:58 test engine started.04/25/2016@10:58 processed alpha = 0.4   elapsed:  1 Sec, 426 Millisec, 
+04/25/2016@10:58 all alphas are processed.   elapsed:  1 Sec, 696 Millisec, 
+04/25/2016@10:58 logger closed!
+
+04/25/2016@10:58 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:58 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:58 test engine started.04/25/2016@10:59 processed alpha = 0.4   elapsed:  1 Sec, 360 Millisec, 
+04/25/2016@10:59 all alphas are processed.   elapsed:  1 Sec, 658 Millisec, 
+04/25/2016@10:59 logger closed!
+
+04/25/2016@10:59 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:59 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:59 test engine started.04/25/2016@10:59 processed alpha = 0.4   elapsed:  1 Sec, 419 Millisec, 
+04/25/2016@10:59 all alphas are processed.   elapsed:  1 Sec, 729 Millisec, 
+04/25/2016@10:59 logger closed!
+
+04/25/2016@10:59 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:59 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:59 test engine started.04/25/2016@10:59 processed alpha = 0.4   elapsed:  1 Sec, 567 Millisec, 
+04/25/2016@10:59 all alphas are processed.   elapsed:  1 Sec, 873 Millisec, 
+04/25/2016@10:59 logger closed!
+
+04/25/2016@10:59 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:59 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:59 test engine started.04/25/2016@10:59 processed alpha = 0.4   elapsed:  1 Sec, 400 Millisec, 
+04/25/2016@10:59 all alphas are processed.   elapsed:  1 Sec, 731 Millisec, 
+04/25/2016@10:59 logger closed!
+
+04/25/2016@10:59 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:59 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:59 test engine started.04/25/2016@10:59 processed alpha = 0.4   elapsed:  1 Sec, 336 Millisec, 
+04/25/2016@10:59 all alphas are processed.   elapsed:  1 Sec, 668 Millisec, 
+04/25/2016@10:59 logger closed!
+
+04/25/2016@10:59 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:59 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:59 test engine started.04/25/2016@10:59 processed alpha = 0.4   elapsed:  2 Sec, 284 Millisec, 
+04/25/2016@10:59 all alphas are processed.   elapsed:  2 Sec, 623 Millisec, 
+04/25/2016@10:59 logger closed!
+
+04/25/2016@10:59 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:59 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:59 test engine started.04/25/2016@10:59 processed alpha = 0.4   elapsed:  2 Sec, 618 Millisec, 
+04/25/2016@10:59 all alphas are processed.   elapsed:  3 Sec,   3 Millisec, 
+04/25/2016@10:59 logger closed!
+
+04/25/2016@10:59 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:59 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:59 test engine started.04/25/2016@10:59 processed alpha = 0.4   elapsed:  2 Sec, 523 Millisec, 
+04/25/2016@10:59 all alphas are processed.   elapsed:  2 Sec, 916 Millisec, 
+04/25/2016@10:59 logger closed!
+
+04/25/2016@10:59 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:59 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:59 test engine started.04/25/2016@10:59 processed alpha = 0.4   elapsed:  1 Sec, 795 Millisec, 
+04/25/2016@10:59 all alphas are processed.   elapsed:  2 Sec, 208 Millisec, 
+04/25/2016@10:59 logger closed!
+
+04/25/2016@10:59 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:59 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:59 test engine started.04/25/2016@10:59 processed alpha = 0.4   elapsed:  2 Sec,  14 Millisec, 
+04/25/2016@10:59 all alphas are processed.   elapsed:  2 Sec, 420 Millisec, 
+04/25/2016@10:59 logger closed!
+
+04/25/2016@10:59 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:59 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:59 test engine started.04/25/2016@10:59 processed alpha = 0.4   elapsed:  2 Sec, 281 Millisec, 
+04/25/2016@10:59 all alphas are processed.   elapsed:  2 Sec, 713 Millisec, 
+04/25/2016@10:59 logger closed!
+
+04/25/2016@10:59 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:59 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:59 test engine started.04/25/2016@10:59 processed alpha = 0.4   elapsed:  2 Sec, 234 Millisec, 
+04/25/2016@10:59 all alphas are processed.   elapsed:  2 Sec, 686 Millisec, 
+04/25/2016@10:59 logger closed!
+
+04/25/2016@10:59 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:59 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:59 test engine started.04/25/2016@10:59 processed alpha = 0.4   elapsed:  2 Sec, 151 Millisec, 
+04/25/2016@10:59 all alphas are processed.   elapsed:  2 Sec, 602 Millisec, 
+04/25/2016@10:59 logger closed!
+
+04/25/2016@10:59 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:59 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:59 test engine started.04/25/2016@10:59 processed alpha = 0.4   elapsed:  2 Sec, 215 Millisec, 
+04/25/2016@10:59 all alphas are processed.   elapsed:  2 Sec, 683 Millisec, 
+04/25/2016@10:59 logger closed!
+
+04/25/2016@10:59 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:59 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:59 test engine started.04/25/2016@10:59 processed alpha = 0.4   elapsed:  2 Sec, 771 Millisec, 
+04/25/2016@10:59 all alphas are processed.   elapsed:  3 Sec, 294 Millisec, 
+04/25/2016@10:59 logger closed!
+
+04/25/2016@10:59 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:59 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:59 test engine started.04/25/2016@10:59 processed alpha = 0.4   elapsed:  2 Sec, 790 Millisec, 
+04/25/2016@10:59 all alphas are processed.   elapsed:  3 Sec, 304 Millisec, 
+04/25/2016@10:59 logger closed!
+
+04/25/2016@10:59 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:59 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:59 test engine started.04/25/2016@10:59 processed alpha = 0.4   elapsed:  2 Sec, 783 Millisec, 
+04/25/2016@10:59 all alphas are processed.   elapsed:  3 Sec, 288 Millisec, 
+04/25/2016@10:59 logger closed!
+
+04/25/2016@10:59 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:59 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:59 test engine started.04/25/2016@10:59 processed alpha = 0.4   elapsed:  2 Sec, 766 Millisec, 
+04/25/2016@10:59 all alphas are processed.   elapsed:  3 Sec, 309 Millisec, 
+04/25/2016@10:59 logger closed!
+
+04/25/2016@10:59 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:59 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:59 test engine started.04/25/2016@10:59 processed alpha = 0.4   elapsed:  2 Sec, 790 Millisec, 
+04/25/2016@10:59 all alphas are processed.   elapsed:  3 Sec, 323 Millisec, 
+04/25/2016@10:59 logger closed!
+
+04/25/2016@10:59 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:59 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:59 test engine started.04/25/2016@10:59 processed alpha = 0.4   elapsed:  3 Sec, 658 Millisec, 
+04/25/2016@10:59 all alphas are processed.   elapsed:  4 Sec, 201 Millisec, 
+04/25/2016@10:59 logger closed!
+
+04/25/2016@10:59 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:59 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:59 test engine started.04/25/2016@10:59 processed alpha = 0.4   elapsed:  3 Sec, 150 Millisec, 
+04/25/2016@10:59 all alphas are processed.   elapsed:  3 Sec, 746 Millisec, 
+04/25/2016@10:59 logger closed!
+
+04/25/2016@10:59 ********** PatternDiscovery Started! **************
+
+04/25/2016@10:59 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@10:59 test engine started.04/25/2016@11:00 processed alpha = 0.4   elapsed:  3 Sec,  25 Millisec, 
+04/25/2016@11:00 all alphas are processed.   elapsed:  3 Sec, 601 Millisec, 
+04/25/2016@11:00 logger closed!
+
+04/25/2016@11:00 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:00 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:00 test engine started.04/25/2016@11:00 processed alpha = 0.4   elapsed:  3 Sec, 801 Millisec, 
+04/25/2016@11:00 all alphas are processed.   elapsed:  4 Sec, 430 Millisec, 
+04/25/2016@11:00 logger closed!
+
+04/25/2016@11:00 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:00 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:00 test engine started.04/25/2016@11:00 processed alpha = 0.4   elapsed:  3 Sec, 218 Millisec, 
+04/25/2016@11:00 all alphas are processed.   elapsed:  3 Sec, 822 Millisec, 
+04/25/2016@11:00 logger closed!
+
+04/25/2016@11:00 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:00 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:00 test engine started.04/25/2016@11:00 processed alpha = 0.4   elapsed:  3 Sec, 710 Millisec, 
+04/25/2016@11:00 all alphas are processed.   elapsed:  4 Sec, 344 Millisec, 
+04/25/2016@11:00 logger closed!
+
+04/25/2016@11:00 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:00 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:00 test engine started.04/25/2016@11:00 processed alpha = 0.4   elapsed:  3 Sec, 938 Millisec, 
+04/25/2016@11:00 all alphas are processed.   elapsed:  4 Sec, 569 Millisec, 
+04/25/2016@11:00 logger closed!
+
+04/25/2016@11:00 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:00 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:00 test engine started.04/25/2016@11:00 processed alpha = 0.4   elapsed:  4 Sec, 214 Millisec, 
+04/25/2016@11:00 all alphas are processed.   elapsed:  4 Sec, 858 Millisec, 
+04/25/2016@11:00 logger closed!
+
+04/25/2016@11:00 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:00 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:00 test engine started.04/25/2016@11:00 processed alpha = 0.4   elapsed:  4 Sec,  18 Millisec, 
+04/25/2016@11:00 all alphas are processed.   elapsed:  4 Sec, 704 Millisec, 
+04/25/2016@11:00 logger closed!
+
+04/25/2016@11:00 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:00 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:00 test engine started.04/25/2016@11:00 processed alpha = 0.4   elapsed:  4 Sec, 325 Millisec, 
+04/25/2016@11:00 all alphas are processed.   elapsed:  4 Sec, 983 Millisec, 
+04/25/2016@11:00 logger closed!
+
+04/25/2016@11:00 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:00 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:00 test engine started.04/25/2016@11:00 processed alpha = 0.4   elapsed:  4 Sec, 529 Millisec, 
+04/25/2016@11:00 all alphas are processed.   elapsed:  5 Sec, 243 Millisec, 
+04/25/2016@11:00 logger closed!
+
+04/25/2016@11:00 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:00 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:00 test engine started.04/25/2016@11:00 processed alpha = 0.4   elapsed:  4 Sec, 660 Millisec, 
+04/25/2016@11:00 all alphas are processed.   elapsed:  5 Sec, 429 Millisec, 
+04/25/2016@11:00 logger closed!
+
+04/25/2016@11:00 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:00 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:00 test engine started.04/25/2016@11:00 processed alpha = 0.4   elapsed:  4 Sec, 404 Millisec, 
+04/25/2016@11:00 all alphas are processed.   elapsed:  5 Sec, 124 Millisec, 
+04/25/2016@11:00 logger closed!
+
+04/25/2016@11:00 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:00 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:00 test engine started.04/25/2016@11:00 processed alpha = 0.4   elapsed:  5 Sec, 138 Millisec, 
+04/25/2016@11:00 all alphas are processed.   elapsed:  5 Sec, 947 Millisec, 
+04/25/2016@11:00 logger closed!
+
+04/25/2016@11:00 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:00 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:00 test engine started.04/25/2016@11:01 processed alpha = 0.4   elapsed:  4 Sec, 476 Millisec, 
+04/25/2016@11:01 all alphas are processed.   elapsed:  5 Sec, 220 Millisec, 
+04/25/2016@11:01 logger closed!
+
+04/25/2016@11:01 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:01 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:01 test engine started.04/25/2016@11:01 processed alpha = 0.4   elapsed:  5 Sec, 830 Millisec, 
+04/25/2016@11:01 all alphas are processed.   elapsed:  6 Sec, 618 Millisec, 
+04/25/2016@11:01 logger closed!
+
+04/25/2016@11:01 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:01 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:01 test engine started.04/25/2016@11:01 processed alpha = 0.4   elapsed:  5 Sec, 377 Millisec, 
+04/25/2016@11:01 all alphas are processed.   elapsed:  6 Sec, 150 Millisec, 
+04/25/2016@11:01 logger closed!
+
+04/25/2016@11:01 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:01 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:01 test engine started.04/25/2016@11:01 processed alpha = 0.4   elapsed:  5 Sec, 295 Millisec, 
+04/25/2016@11:01 all alphas are processed.   elapsed:  6 Sec, 101 Millisec, 
+04/25/2016@11:01 logger closed!
+
+04/25/2016@11:01 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:01 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:01 test engine started.04/25/2016@11:01 processed alpha = 0.4   elapsed:  6 Sec,  57 Millisec, 
+04/25/2016@11:01 all alphas are processed.   elapsed:  6 Sec, 855 Millisec, 
+04/25/2016@11:01 logger closed!
+
+04/25/2016@11:01 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:01 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:01 test engine started.04/25/2016@11:01 processed alpha = 0.4   elapsed:  6 Sec,   5 Millisec, 
+04/25/2016@11:01 all alphas are processed.   elapsed:  6 Sec, 839 Millisec, 
+04/25/2016@11:01 logger closed!
+
+04/25/2016@11:01 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:01 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:01 test engine started.04/25/2016@11:01 processed alpha = 0.4   elapsed:  5 Sec, 841 Millisec, 
+04/25/2016@11:01 all alphas are processed.   elapsed:  6 Sec, 689 Millisec, 
+04/25/2016@11:01 logger closed!
+
+04/25/2016@11:01 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:01 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:01 test engine started.04/25/2016@11:01 processed alpha = 0.4   elapsed:  5 Sec, 898 Millisec, 
+04/25/2016@11:01 all alphas are processed.   elapsed:  6 Sec, 779 Millisec, 
+04/25/2016@11:01 logger closed!
+
+04/25/2016@11:01 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:01 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:01 test engine started.04/25/2016@11:01 processed alpha = 0.4   elapsed:  5 Sec, 684 Millisec, 
+04/25/2016@11:01 all alphas are processed.   elapsed:  6 Sec, 608 Millisec, 
+04/25/2016@11:01 logger closed!
+
+04/25/2016@11:01 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:01 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:01 test engine started.04/25/2016@11:02 processed alpha = 0.4   elapsed:  6 Sec, 615 Millisec, 
+04/25/2016@11:02 all alphas are processed.   elapsed:  7 Sec, 506 Millisec, 
+04/25/2016@11:02 logger closed!
+
+04/25/2016@11:02 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:02 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:02 test engine started.04/25/2016@11:02 processed alpha = 0.4   elapsed:  7 Sec, 305 Millisec, 
+04/25/2016@11:02 all alphas are processed.   elapsed:  8 Sec, 206 Millisec, 
+04/25/2016@11:02 logger closed!
+
+04/25/2016@11:02 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:02 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:02 test engine started.04/25/2016@11:02 processed alpha = 0.4   elapsed:  6 Sec, 424 Millisec, 
+04/25/2016@11:02 all alphas are processed.   elapsed:  7 Sec, 310 Millisec, 
+04/25/2016@11:02 logger closed!
+
+04/25/2016@11:02 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:02 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:02 test engine started.04/25/2016@11:02 processed alpha = 0.4   elapsed:  7 Sec, 147 Millisec, 
+04/25/2016@11:02 all alphas are processed.   elapsed:  8 Sec,  60 Millisec, 
+04/25/2016@11:02 logger closed!
+
+04/25/2016@11:02 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:02 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:02 test engine started.04/25/2016@11:02 processed alpha = 0.4   elapsed:  7 Sec, 417 Millisec, 
+04/25/2016@11:02 all alphas are processed.   elapsed:  8 Sec, 385 Millisec, 
+04/25/2016@11:02 logger closed!
+
+04/25/2016@11:02 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:02 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:02 test engine started.04/25/2016@11:02 processed alpha = 0.4   elapsed:  8 Sec, 235 Millisec, 
+04/25/2016@11:02 all alphas are processed.   elapsed:  9 Sec, 222 Millisec, 
+04/25/2016@11:02 logger closed!
+
+04/25/2016@11:02 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:02 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:02 test engine started.04/25/2016@11:02 processed alpha = 0.4   elapsed:  8 Sec, 139 Millisec, 
+04/25/2016@11:02 all alphas are processed.   elapsed:  9 Sec, 174 Millisec, 
+04/25/2016@11:02 logger closed!
+
+04/25/2016@11:02 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:02 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:02 test engine started.04/25/2016@11:03 processed alpha = 0.4   elapsed:  8 Sec, 512 Millisec, 
+04/25/2016@11:03 all alphas are processed.   elapsed:  9 Sec, 548 Millisec, 
+04/25/2016@11:03 logger closed!
+
+04/25/2016@11:03 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:03 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:03 test engine started.04/25/2016@11:03 processed alpha = 0.4   elapsed:  8 Sec, 131 Millisec, 
+04/25/2016@11:03 all alphas are processed.   elapsed:  9 Sec, 135 Millisec, 
+04/25/2016@11:03 logger closed!
+
+04/25/2016@11:03 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:03 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:03 test engine started.04/25/2016@11:03 processed alpha = 0.4   elapsed:  7 Sec, 673 Millisec, 
+04/25/2016@11:03 all alphas are processed.   elapsed:  8 Sec, 749 Millisec, 
+04/25/2016@11:03 logger closed!
+
+04/25/2016@11:03 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:03 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:03 test engine started.04/25/2016@11:03 processed alpha = 0.4   elapsed:  7 Sec, 535 Millisec, 
+04/25/2016@11:03 all alphas are processed.   elapsed:  8 Sec, 566 Millisec, 
+04/25/2016@11:03 logger closed!
+
+04/25/2016@11:03 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:03 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:03 test engine started.04/25/2016@11:03 processed alpha = 0.4   elapsed:  9 Sec,  35 Millisec, 
+04/25/2016@11:03 all alphas are processed.   elapsed: 10 Sec,  62 Millisec, 
+04/25/2016@11:03 logger closed!
+
+04/25/2016@11:03 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:03 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:03 test engine started.04/25/2016@11:03 processed alpha = 0.4   elapsed:  9 Sec, 688 Millisec, 
+04/25/2016@11:03 all alphas are processed.   elapsed: 10 Sec, 724 Millisec, 
+04/25/2016@11:03 logger closed!
+
+04/25/2016@11:03 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:03 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:03 test engine started.04/25/2016@11:03 processed alpha = 0.4   elapsed:  8 Sec, 344 Millisec, 
+04/25/2016@11:03 all alphas are processed.   elapsed:  9 Sec, 375 Millisec, 
+04/25/2016@11:03 logger closed!
+
+04/25/2016@11:03 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:03 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:03 test engine started.04/25/2016@11:04 processed alpha = 0.4   elapsed:  9 Sec,  57 Millisec, 
+04/25/2016@11:04 all alphas are processed.   elapsed: 10 Sec, 153 Millisec, 
+04/25/2016@11:04 logger closed!
+
+04/25/2016@11:04 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:04 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:04 test engine started.04/25/2016@11:04 processed alpha = 0.4   elapsed:  8 Sec, 996 Millisec, 
+04/25/2016@11:04 all alphas are processed.   elapsed: 10 Sec,  81 Millisec, 
+04/25/2016@11:04 logger closed!
+
+04/25/2016@11:04 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:04 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:04 test engine started.04/25/2016@11:04 processed alpha = 0.4   elapsed:  9 Sec, 139 Millisec, 
+04/25/2016@11:04 all alphas are processed.   elapsed: 10 Sec, 208 Millisec, 
+04/25/2016@11:04 logger closed!
+
+04/25/2016@11:04 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:04 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:04 test engine started.04/25/2016@11:04 processed alpha = 0.4   elapsed: 10 Sec, 906 Millisec, 
+04/25/2016@11:04 all alphas are processed.   elapsed: 12 Sec,  99 Millisec, 
+04/25/2016@11:04 logger closed!
+
+04/25/2016@11:04 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:04 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:04 test engine started.04/25/2016@11:04 processed alpha = 0.4   elapsed:  9 Sec, 113 Millisec, 
+04/25/2016@11:04 all alphas are processed.   elapsed: 10 Sec, 244 Millisec, 
+04/25/2016@11:04 logger closed!
+
+04/25/2016@11:04 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:04 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:04 test engine started.04/25/2016@11:05 processed alpha = 0.4   elapsed: 10 Sec, 917 Millisec, 
+04/25/2016@11:05 all alphas are processed.   elapsed: 12 Sec,  52 Millisec, 
+04/25/2016@11:05 logger closed!
+
+04/25/2016@11:05 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:05 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:05 test engine started.04/25/2016@11:05 processed alpha = 0.4   elapsed: 10 Sec, 420 Millisec, 
+04/25/2016@11:05 all alphas are processed.   elapsed: 11 Sec, 567 Millisec, 
+04/25/2016@11:05 logger closed!
+
+04/25/2016@11:05 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:05 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:05 test engine started.04/25/2016@11:05 processed alpha = 0.4   elapsed: 10 Sec, 747 Millisec, 
+04/25/2016@11:05 all alphas are processed.   elapsed: 11 Sec, 899 Millisec, 
+04/25/2016@11:05 logger closed!
+
+04/25/2016@11:05 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:05 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:05 test engine started.04/25/2016@11:05 processed alpha = 0.4   elapsed: 10 Sec, 805 Millisec, 
+04/25/2016@11:05 all alphas are processed.   elapsed: 11 Sec, 977 Millisec, 
+04/25/2016@11:05 logger closed!
+
+04/25/2016@11:05 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:05 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:05 test engine started.04/25/2016@11:05 processed alpha = 0.4   elapsed: 10 Sec, 880 Millisec, 
+04/25/2016@11:05 all alphas are processed.   elapsed: 12 Sec,  79 Millisec, 
+04/25/2016@11:05 logger closed!
+
+04/25/2016@11:05 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:05 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:05 test engine started.04/25/2016@11:06 processed alpha = 0.4   elapsed: 12 Sec, 388 Millisec, 
+04/25/2016@11:06 all alphas are processed.   elapsed: 13 Sec, 632 Millisec, 
+04/25/2016@11:06 logger closed!
+
+04/25/2016@11:06 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:06 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:06 test engine started.04/25/2016@11:06 processed alpha = 0.4   elapsed: 13 Sec, 162 Millisec, 
+04/25/2016@11:06 all alphas are processed.   elapsed: 14 Sec, 406 Millisec, 
+04/25/2016@11:06 logger closed!
+
+04/25/2016@11:06 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:06 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:06 test engine started.04/25/2016@11:06 processed alpha = 0.4   elapsed: 11 Sec, 730 Millisec, 
+04/25/2016@11:06 all alphas are processed.   elapsed: 13 Sec,  33 Millisec, 
+04/25/2016@11:06 logger closed!
+
+04/25/2016@11:06 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:06 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:06 test engine started.04/25/2016@11:06 processed alpha = 0.4   elapsed: 12 Sec,  72 Millisec, 
+04/25/2016@11:06 all alphas are processed.   elapsed: 13 Sec, 335 Millisec, 
+04/25/2016@11:06 logger closed!
+
+04/25/2016@11:06 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:06 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:06 test engine started.04/25/2016@11:07 processed alpha = 0.4   elapsed: 11 Sec, 174 Millisec, 
+04/25/2016@11:07 all alphas are processed.   elapsed: 12 Sec, 462 Millisec, 
+04/25/2016@11:07 logger closed!
+
+04/25/2016@11:07 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:07 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:07 test engine started.04/25/2016@11:07 processed alpha = 0.4   elapsed: 11 Sec, 334 Millisec, 
+04/25/2016@11:07 all alphas are processed.   elapsed: 12 Sec, 620 Millisec, 
+04/25/2016@11:07 logger closed!
+
+04/25/2016@11:07 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:07 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:07 test engine started.04/25/2016@11:07 processed alpha = 0.4   elapsed: 12 Sec, 385 Millisec, 
+04/25/2016@11:07 all alphas are processed.   elapsed: 13 Sec, 668 Millisec, 
+04/25/2016@11:07 logger closed!
+
+04/25/2016@11:07 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:07 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:07 test engine started.04/25/2016@11:07 processed alpha = 0.4   elapsed: 12 Sec, 991 Millisec, 
+04/25/2016@11:07 all alphas are processed.   elapsed: 14 Sec, 318 Millisec, 
+04/25/2016@11:07 logger closed!
+
+04/25/2016@11:07 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:07 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:07 test engine started.04/25/2016@11:07 processed alpha = 0.4   elapsed: 13 Sec, 320 Millisec, 
+04/25/2016@11:07 all alphas are processed.   elapsed: 14 Sec, 690 Millisec, 
+04/25/2016@11:07 logger closed!
+
+04/25/2016@11:07 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:07 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:07 test engine started.04/25/2016@11:08 processed alpha = 0.4   elapsed: 14 Sec, 953 Millisec, 
+04/25/2016@11:08 all alphas are processed.   elapsed: 16 Sec, 285 Millisec, 
+04/25/2016@11:08 logger closed!
+
+04/25/2016@11:08 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:08 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:08 test engine started.04/25/2016@11:08 processed alpha = 0.4   elapsed: 16 Sec,  47 Millisec, 
+04/25/2016@11:08 all alphas are processed.   elapsed: 17 Sec, 439 Millisec, 
+04/25/2016@11:08 logger closed!
+
+04/25/2016@11:08 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:08 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:08 test engine started.04/25/2016@11:08 processed alpha = 0.4   elapsed: 13 Sec, 992 Millisec, 
+04/25/2016@11:08 all alphas are processed.   elapsed: 15 Sec, 326 Millisec, 
+04/25/2016@11:08 logger closed!
+
+04/25/2016@11:08 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:08 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:08 test engine started.04/25/2016@11:09 processed alpha = 0.4   elapsed: 13 Sec, 162 Millisec, 
+04/25/2016@11:09 all alphas are processed.   elapsed: 14 Sec, 538 Millisec, 
+04/25/2016@11:09 logger closed!
+
+04/25/2016@11:09 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:09 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:09 test engine started.04/25/2016@11:09 processed alpha = 0.4   elapsed: 13 Sec, 243 Millisec, 
+04/25/2016@11:09 all alphas are processed.   elapsed: 14 Sec, 743 Millisec, 
+04/25/2016@11:09 logger closed!
+
+04/25/2016@11:09 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:09 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:09 test engine started.04/25/2016@11:09 processed alpha = 0.4   elapsed: 13 Sec, 615 Millisec, 
+04/25/2016@11:09 all alphas are processed.   elapsed: 14 Sec, 979 Millisec, 
+04/25/2016@11:09 logger closed!
+
+04/25/2016@11:09 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:09 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:09 test engine started.04/25/2016@11:09 processed alpha = 0.4   elapsed: 21 Sec, 756 Millisec, 
+04/25/2016@11:09 all alphas are processed.   elapsed: 23 Sec, 146 Millisec, 
+04/25/2016@11:09 logger closed!
+
+04/25/2016@11:09 ********** PatternDiscovery Started! **************
+
+04/25/2016@11:09 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@11:09 test engine started.04/25/2016@11:10 processed alpha = 0.4   elapsed: 17 Sec, 345 Millisec, 
+04/25/2016@11:10 all alphas are processed.   elapsed: 18 Sec, 791 Millisec, 
+04/25/2016@11:10 logger closed!
+
+04/25/2016@19:00 ********** PatternDiscovery Started! **************
+
+04/25/2016@19:00 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@19:00 test engine started.04/25/2016@19:00 processed alpha = 0.4   elapsed: 23 Sec, 690 Millisec, 
+04/25/2016@19:00 all alphas are processed.   elapsed: 25 Sec, 929 Millisec, 
+04/25/2016@19:00 logger closed!
+
+04/25/2016@19:02 ********** PatternDiscovery Started! **************
+
+04/25/2016@19:02 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@19:02 test engine started.04/25/2016@19:02 processed alpha = 0.3   elapsed: 16 Sec, 328 Millisec, 
+04/25/2016@19:03 processed alpha = 0.4   elapsed: 19 Sec, 350 Millisec, 
+04/25/2016@19:03 all alphas are processed.   elapsed: 38 Sec, 537 Millisec, 
+04/25/2016@19:03 logger closed!
+
+04/25/2016@19:05 ********** PatternDiscovery Started! **************
+
+04/25/2016@19:05 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@19:05 test engine started.04/25/2016@19:05 processed alpha = 0.3   elapsed: 15 Sec, 818 Millisec, 
+04/25/2016@19:05 all alphas are processed.   elapsed: 17 Sec, 744 Millisec, 
+04/25/2016@19:05 logger closed!
+
+04/25/2016@19:07 ********** PatternDiscovery Started! **************
+
+04/25/2016@19:07 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@19:07 test engine started.04/25/2016@19:07 processed alpha = 0.3   elapsed: 16 Sec, 960 Millisec, 
+04/25/2016@19:07 all alphas are processed.   elapsed: 18 Sec, 974 Millisec, 
+04/25/2016@19:07 logger closed!
+
+04/25/2016@19:09 ********** PatternDiscovery Started! **************
+
+04/25/2016@19:09 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@19:09 test engine started.04/25/2016@19:09 processed alpha = 0.3   elapsed: 14 Sec, 816 Millisec, 
+04/25/2016@19:09 all alphas are processed.   elapsed: 16 Sec, 716 Millisec, 
+04/25/2016@19:09 logger closed!
+
+04/25/2016@19:13 ********** PatternDiscovery Started! **************
+
+04/25/2016@19:13 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@19:13 test engine started.04/25/2016@19:13 processed alpha = 0.3   elapsed: 13 Sec, 684 Millisec, 
+04/25/2016@19:13 all alphas are processed.   elapsed: 15 Sec, 994 Millisec, 
+04/25/2016@19:13 logger closed!
+
+04/25/2016@19:16 ********** PatternDiscovery Started! **************
+
+04/25/2016@19:16 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@19:16 test engine started.04/25/2016@19:16 processed alpha = 0.3   elapsed: 12 Sec, 387 Millisec, 
+04/25/2016@19:16 all alphas are processed.   elapsed: 14 Sec, 788 Millisec, 
+04/25/2016@19:16 logger closed!
+
+04/25/2016@19:18 ********** PatternDiscovery Started! **************
+
+04/25/2016@19:18 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@19:18 test engine started.04/25/2016@19:18 processed alpha = 0.3   elapsed: 10 Sec, 545 Millisec, 
+04/25/2016@19:18 all alphas are processed.   elapsed: 13 Sec, 368 Millisec, 
+04/25/2016@19:18 logger closed!
+
+04/25/2016@19:20 ********** PatternDiscovery Started! **************
+
+04/25/2016@19:20 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@19:20 test engine started.04/25/2016@19:20 processed alpha = 0.3   elapsed: 10 Sec, 711 Millisec, 
+04/25/2016@19:20 all alphas are processed.   elapsed: 13 Sec,  54 Millisec, 
+04/25/2016@19:20 logger closed!
+
+04/25/2016@19:21 ********** PatternDiscovery Started! **************
+
+04/25/2016@19:21 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@19:21 test engine started.04/25/2016@19:22 processed alpha = 0.3   elapsed:  9 Sec, 981 Millisec, 
+04/25/2016@19:22 all alphas are processed.   elapsed: 12 Sec, 403 Millisec, 
+04/25/2016@19:22 logger closed!
+
+04/25/2016@19:24 ********** PatternDiscovery Started! **************
+
+04/25/2016@19:24 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@19:24 test engine started.04/25/2016@19:24 processed alpha = 0.3   elapsed:  9 Sec, 278 Millisec, 
+04/25/2016@19:24 all alphas are processed.   elapsed: 12 Sec, 216 Millisec, 
+04/25/2016@19:24 logger closed!
+
+04/25/2016@19:26 ********** PatternDiscovery Started! **************
+
+04/25/2016@19:26 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@19:26 test engine started.04/25/2016@19:26 processed alpha = 0.3   elapsed:  7 Sec,  86 Millisec, 
+04/25/2016@19:26 all alphas are processed.   elapsed:  8 Sec, 586 Millisec, 
+04/25/2016@19:26 logger closed!
+
+04/25/2016@19:28 ********** PatternDiscovery Started! **************
+
+04/25/2016@19:28 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@19:28 test engine started.04/25/2016@19:28 processed alpha = 0.3   elapsed:  4 Sec, 890 Millisec, 
+04/25/2016@19:28 all alphas are processed.   elapsed:  7 Sec,  23 Millisec, 
+04/25/2016@19:28 logger closed!
+
+04/25/2016@19:34 ********** PatternDiscovery Started! **************
+
+04/25/2016@19:34 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@19:34 test engine started.04/25/2016@19:34 processed alpha = 0.3   elapsed:  4 Sec, 657 Millisec, 
+04/25/2016@19:34 all alphas are processed.   elapsed:  5 Sec, 927 Millisec, 
+04/25/2016@19:34 logger closed!
+
+04/25/2016@19:36 ********** PatternDiscovery Started! **************
+
+04/25/2016@19:36 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@19:36 test engine started.04/25/2016@19:36 processed alpha = 0.3   elapsed:  2 Sec, 930 Millisec, 
+04/25/2016@19:36 all alphas are processed.   elapsed:  3 Sec, 942 Millisec, 
+04/25/2016@19:36 logger closed!
+
+04/25/2016@19:38 ********** PatternDiscovery Started! **************
+
+04/25/2016@19:38 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@19:38 test engine started.04/25/2016@19:38 processed alpha = 0.3   elapsed:  1 Sec, 905 Millisec, 
+04/25/2016@19:38 all alphas are processed.   elapsed:  2 Sec, 850 Millisec, 
+04/25/2016@19:38 logger closed!
+
+04/25/2016@19:40 ********** PatternDiscovery Started! **************
+
+04/25/2016@19:40 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@19:40 test engine started.04/25/2016@19:40 processed alpha = 0.3   elapsed:  1 Sec, 447 Millisec, 
+04/25/2016@19:40 all alphas are processed.   elapsed:  2 Sec, 212 Millisec, 
+04/25/2016@19:40 logger closed!
+
+04/25/2016@22:37 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:37 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:37 test engine started.04/25/2016@22:37 processed alpha = 0.4   elapsed: 49 Sec, 951 Millisec, 
+04/25/2016@22:37 all alphas are processed.   elapsed: 50 Sec, 130 Millisec, 
+04/25/2016@22:37 logger closed!
+
+04/25/2016@22:38 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:38 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:38 test engine started.04/25/2016@22:38 processed alpha = 0.3   elapsed: 25 Sec,  21 Millisec, 
+04/25/2016@22:38 all alphas are processed.   elapsed: 25 Sec, 216 Millisec, 
+04/25/2016@22:38 logger closed!
+
+04/25/2016@22:38 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:38 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:38 test engine started.04/25/2016@22:39 processed alpha = 0.3   elapsed: 13 Sec,  31 Millisec, 
+04/25/2016@22:39 all alphas are processed.   elapsed: 13 Sec, 154 Millisec, 
+04/25/2016@22:39 logger closed!
+
+04/25/2016@22:39 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:39 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:39 test engine started.04/25/2016@22:40 processed alpha = 0.3   elapsed:  1 Min, 19 Sec, 290 Millisec, 
+04/25/2016@22:40 all alphas are processed.   elapsed:  1 Min, 19 Sec, 389 Millisec, 
+04/25/2016@22:40 logger closed!
+
+04/25/2016@22:40 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:40 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:40 test engine started.04/25/2016@22:40 processed alpha = 0.3   elapsed: 999 Millisec, 
+04/25/2016@22:40 all alphas are processed.   elapsed:  1 Sec, 205 Millisec, 
+04/25/2016@22:40 logger closed!
+
+04/25/2016@22:40 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:40 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:40 test engine started.04/25/2016@22:40 processed alpha = 0.3   elapsed: 12 Sec, 119 Millisec, 
+04/25/2016@22:40 all alphas are processed.   elapsed: 12 Sec, 217 Millisec, 
+04/25/2016@22:40 logger closed!
+
+04/25/2016@22:40 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:40 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:40 test engine started.04/25/2016@22:41 processed alpha = 0.3   elapsed: 24 Sec, 566 Millisec, 
+04/25/2016@22:41 all alphas are processed.   elapsed: 24 Sec, 694 Millisec, 
+04/25/2016@22:41 logger closed!
+
+04/25/2016@22:41 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:41 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:41 test engine started.04/25/2016@22:41 processed alpha = 0.3   elapsed: 15 Sec, 126 Millisec, 
+04/25/2016@22:41 all alphas are processed.   elapsed: 15 Sec, 241 Millisec, 
+04/25/2016@22:41 logger closed!
+
+04/25/2016@22:41 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:41 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:41 test engine started.04/25/2016@22:41 processed alpha = 0.3   elapsed: 379 Millisec, 
+04/25/2016@22:41 all alphas are processed.   elapsed: 513 Millisec, 
+04/25/2016@22:41 logger closed!
+
+04/25/2016@22:41 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:41 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:41 test engine started.04/25/2016@22:41 processed alpha = 0.3   elapsed: 316 Millisec, 
+04/25/2016@22:41 all alphas are processed.   elapsed: 465 Millisec, 
+04/25/2016@22:41 logger closed!
+
+04/25/2016@22:41 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:41 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:41 test engine started.04/25/2016@22:41 processed alpha = 0.3   elapsed:  4 Sec, 505 Millisec, 
+04/25/2016@22:41 all alphas are processed.   elapsed:  4 Sec, 695 Millisec, 
+04/25/2016@22:41 logger closed!
+
+04/25/2016@22:41 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:41 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:41 test engine started.04/25/2016@22:41 processed alpha = 0.3   elapsed:  9 Sec,  92 Millisec, 
+04/25/2016@22:41 all alphas are processed.   elapsed:  9 Sec, 298 Millisec, 
+04/25/2016@22:41 logger closed!
+
+04/25/2016@22:41 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:41 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:41 test engine started.04/25/2016@22:41 processed alpha = 0.3   elapsed:  9 Sec, 314 Millisec, 
+04/25/2016@22:41 all alphas are processed.   elapsed:  9 Sec, 519 Millisec, 
+04/25/2016@22:41 logger closed!
+
+04/25/2016@22:41 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:41 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:41 test engine started.04/25/2016@22:41 processed alpha = 0.3   elapsed: 12 Sec, 271 Millisec, 
+04/25/2016@22:41 all alphas are processed.   elapsed: 12 Sec, 486 Millisec, 
+04/25/2016@22:41 logger closed!
+
+04/25/2016@22:41 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:41 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:41 test engine started.04/25/2016@22:41 processed alpha = 0.3   elapsed: 758 Millisec, 
+04/25/2016@22:41 all alphas are processed.   elapsed: 980 Millisec, 
+04/25/2016@22:41 logger closed!
+
+04/25/2016@22:41 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:41 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:41 test engine started.04/25/2016@22:42 processed alpha = 0.3   elapsed: 14 Sec, 817 Millisec, 
+04/25/2016@22:42 all alphas are processed.   elapsed: 15 Sec, 124 Millisec, 
+04/25/2016@22:42 logger closed!
+
+04/25/2016@22:42 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:42 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:42 test engine started.04/25/2016@22:42 processed alpha = 0.3   elapsed:  1 Sec, 218 Millisec, 
+04/25/2016@22:42 all alphas are processed.   elapsed:  1 Sec, 476 Millisec, 
+04/25/2016@22:42 logger closed!
+
+04/25/2016@22:42 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:42 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:42 test engine started.04/25/2016@22:42 processed alpha = 0.3   elapsed: 846 Millisec, 
+04/25/2016@22:42 all alphas are processed.   elapsed:  1 Sec, 105 Millisec, 
+04/25/2016@22:42 logger closed!
+
+04/25/2016@22:42 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:42 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:42 test engine started.04/25/2016@22:42 processed alpha = 0.3   elapsed: 34 Sec, 174 Millisec, 
+04/25/2016@22:42 all alphas are processed.   elapsed: 34 Sec, 452 Millisec, 
+04/25/2016@22:42 logger closed!
+
+04/25/2016@22:42 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:42 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:42 test engine started.04/25/2016@22:42 processed alpha = 0.3   elapsed:  1 Sec, 420 Millisec, 
+04/25/2016@22:42 all alphas are processed.   elapsed:  1 Sec, 774 Millisec, 
+04/25/2016@22:42 logger closed!
+
+04/25/2016@22:42 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:42 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:42 test engine started.04/25/2016@22:42 processed alpha = 0.3   elapsed: 857 Millisec, 
+04/25/2016@22:42 all alphas are processed.   elapsed:  1 Sec, 248 Millisec, 
+04/25/2016@22:42 logger closed!
+
+04/25/2016@22:42 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:42 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:42 test engine started.04/25/2016@22:42 processed alpha = 0.3   elapsed: 925 Millisec, 
+04/25/2016@22:42 all alphas are processed.   elapsed:  1 Sec, 262 Millisec, 
+04/25/2016@22:42 logger closed!
+
+04/25/2016@22:42 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:42 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:42 test engine started.04/25/2016@22:42 processed alpha = 0.3   elapsed:  1 Sec, 779 Millisec, 
+04/25/2016@22:42 all alphas are processed.   elapsed:  2 Sec, 125 Millisec, 
+04/25/2016@22:42 logger closed!
+
+04/25/2016@22:42 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:42 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:42 test engine started.04/25/2016@22:42 processed alpha = 0.3   elapsed: 917 Millisec, 
+04/25/2016@22:42 all alphas are processed.   elapsed:  1 Sec, 359 Millisec, 
+04/25/2016@22:42 logger closed!
+
+04/25/2016@22:42 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:42 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:42 test engine started.04/25/2016@22:42 processed alpha = 0.3   elapsed: 946 Millisec, 
+04/25/2016@22:42 all alphas are processed.   elapsed:  1 Sec, 315 Millisec, 
+04/25/2016@22:42 logger closed!
+
+04/25/2016@22:42 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:42 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:42 test engine started.04/25/2016@22:42 processed alpha = 0.3   elapsed:  1 Sec,  85 Millisec, 
+04/25/2016@22:42 all alphas are processed.   elapsed:  1 Sec, 479 Millisec, 
+04/25/2016@22:42 logger closed!
+
+04/25/2016@22:42 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:42 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:42 test engine started.04/25/2016@22:43 processed alpha = 0.3   elapsed:  1 Sec, 220 Millisec, 
+04/25/2016@22:43 all alphas are processed.   elapsed:  1 Sec, 617 Millisec, 
+04/25/2016@22:43 logger closed!
+
+04/25/2016@22:43 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:43 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:43 test engine started.04/25/2016@22:43 processed alpha = 0.3   elapsed:  1 Sec, 353 Millisec, 
+04/25/2016@22:43 all alphas are processed.   elapsed:  1 Sec, 756 Millisec, 
+04/25/2016@22:43 logger closed!
+
+04/25/2016@22:43 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:43 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:43 test engine started.04/25/2016@22:43 processed alpha = 0.3   elapsed:  1 Sec, 544 Millisec, 
+04/25/2016@22:43 all alphas are processed.   elapsed:  1 Sec, 969 Millisec, 
+04/25/2016@22:43 logger closed!
+
+04/25/2016@22:43 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:43 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:43 test engine started.04/25/2016@22:43 processed alpha = 0.3   elapsed:  1 Sec, 487 Millisec, 
+04/25/2016@22:43 all alphas are processed.   elapsed:  1 Sec, 936 Millisec, 
+04/25/2016@22:43 logger closed!
+
+04/25/2016@22:43 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:43 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:43 test engine started.04/25/2016@22:43 processed alpha = 0.3   elapsed:  1 Sec, 565 Millisec, 
+04/25/2016@22:43 all alphas are processed.   elapsed:  2 Sec,  25 Millisec, 
+04/25/2016@22:43 logger closed!
+
+04/25/2016@22:43 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:43 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:43 test engine started.04/25/2016@22:43 processed alpha = 0.3   elapsed:  1 Sec, 590 Millisec, 
+04/25/2016@22:43 all alphas are processed.   elapsed:  2 Sec,  56 Millisec, 
+04/25/2016@22:43 logger closed!
+
+04/25/2016@22:43 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:43 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:43 test engine started.04/25/2016@22:43 processed alpha = 0.3   elapsed:  1 Sec, 853 Millisec, 
+04/25/2016@22:43 all alphas are processed.   elapsed:  2 Sec, 324 Millisec, 
+04/25/2016@22:43 logger closed!
+
+04/25/2016@22:43 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:43 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:43 test engine started.04/25/2016@22:43 processed alpha = 0.3   elapsed:  1 Sec, 819 Millisec, 
+04/25/2016@22:43 all alphas are processed.   elapsed:  2 Sec, 336 Millisec, 
+04/25/2016@22:43 logger closed!
+
+04/25/2016@22:43 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:43 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:43 test engine started.04/25/2016@22:43 processed alpha = 0.3   elapsed:  1 Sec, 904 Millisec, 
+04/25/2016@22:43 all alphas are processed.   elapsed:  2 Sec, 428 Millisec, 
+04/25/2016@22:43 logger closed!
+
+04/25/2016@22:43 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:43 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:43 test engine started.04/25/2016@22:43 processed alpha = 0.3   elapsed:  1 Sec, 884 Millisec, 
+04/25/2016@22:43 all alphas are processed.   elapsed:  2 Sec, 433 Millisec, 
+04/25/2016@22:43 logger closed!
+
+04/25/2016@22:43 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:43 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:43 test engine started.04/25/2016@22:43 processed alpha = 0.3   elapsed:  1 Sec, 921 Millisec, 
+04/25/2016@22:43 all alphas are processed.   elapsed:  2 Sec, 494 Millisec, 
+04/25/2016@22:43 logger closed!
+
+04/25/2016@22:43 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:43 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:43 test engine started.04/25/2016@22:43 processed alpha = 0.3   elapsed:  2 Sec, 171 Millisec, 
+04/25/2016@22:43 all alphas are processed.   elapsed:  2 Sec, 730 Millisec, 
+04/25/2016@22:43 logger closed!
+
+04/25/2016@22:43 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:43 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:43 test engine started.04/25/2016@22:43 processed alpha = 0.3   elapsed:  2 Sec, 296 Millisec, 
+04/25/2016@22:43 all alphas are processed.   elapsed:  2 Sec, 855 Millisec, 
+04/25/2016@22:43 logger closed!
+
+04/25/2016@22:43 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:43 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:43 test engine started.04/25/2016@22:43 processed alpha = 0.3   elapsed:  2 Sec, 113 Millisec, 
+04/25/2016@22:43 all alphas are processed.   elapsed:  2 Sec, 689 Millisec, 
+04/25/2016@22:43 logger closed!
+
+04/25/2016@22:43 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:43 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:43 test engine started.04/25/2016@22:43 processed alpha = 0.3   elapsed:  2 Sec, 714 Millisec, 
+04/25/2016@22:43 all alphas are processed.   elapsed:  3 Sec, 305 Millisec, 
+04/25/2016@22:43 logger closed!
+
+04/25/2016@22:43 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:43 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:43 test engine started.04/25/2016@22:43 processed alpha = 0.3   elapsed:  2 Sec, 430 Millisec, 
+04/25/2016@22:43 all alphas are processed.   elapsed:  3 Sec,  26 Millisec, 
+04/25/2016@22:43 logger closed!
+
+04/25/2016@22:43 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:43 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:43 test engine started.04/25/2016@22:43 processed alpha = 0.3   elapsed:  2 Sec, 819 Millisec, 
+04/25/2016@22:43 all alphas are processed.   elapsed:  3 Sec, 519 Millisec, 
+04/25/2016@22:43 logger closed!
+
+04/25/2016@22:43 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:43 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:43 test engine started.04/25/2016@22:43 processed alpha = 0.3   elapsed:  2 Sec, 689 Millisec, 
+04/25/2016@22:43 all alphas are processed.   elapsed:  3 Sec, 323 Millisec, 
+04/25/2016@22:43 logger closed!
+
+04/25/2016@22:43 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:43 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:43 test engine started.04/25/2016@22:43 processed alpha = 0.3   elapsed:  2 Sec, 825 Millisec, 
+04/25/2016@22:43 all alphas are processed.   elapsed:  3 Sec, 447 Millisec, 
+04/25/2016@22:43 logger closed!
+
+04/25/2016@22:43 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:43 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:43 test engine started.04/25/2016@22:43 processed alpha = 0.3   elapsed:  2 Sec, 907 Millisec, 
+04/25/2016@22:43 all alphas are processed.   elapsed:  3 Sec, 610 Millisec, 
+04/25/2016@22:43 logger closed!
+
+04/25/2016@22:43 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:43 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:43 test engine started.04/25/2016@22:43 processed alpha = 0.3   elapsed:  3 Sec, 160 Millisec, 
+04/25/2016@22:43 all alphas are processed.   elapsed:  3 Sec, 812 Millisec, 
+04/25/2016@22:43 logger closed!
+
+04/25/2016@22:43 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:43 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:43 test engine started.04/25/2016@22:44 processed alpha = 0.3   elapsed:  3 Sec,  66 Millisec, 
+04/25/2016@22:44 all alphas are processed.   elapsed:  3 Sec, 740 Millisec, 
+04/25/2016@22:44 logger closed!
+
+04/25/2016@22:44 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:44 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:44 test engine started.04/25/2016@22:44 processed alpha = 0.3   elapsed:  3 Sec, 336 Millisec, 
+04/25/2016@22:44 all alphas are processed.   elapsed:  4 Sec,  47 Millisec, 
+04/25/2016@22:44 logger closed!
+
+04/25/2016@22:44 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:44 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:44 test engine started.04/25/2016@22:44 processed alpha = 0.3   elapsed:  3 Sec, 428 Millisec, 
+04/25/2016@22:44 all alphas are processed.   elapsed:  4 Sec, 133 Millisec, 
+04/25/2016@22:44 logger closed!
+
+04/25/2016@22:44 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:44 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:44 test engine started.04/25/2016@22:44 processed alpha = 0.3   elapsed:  3 Sec, 579 Millisec, 
+04/25/2016@22:44 all alphas are processed.   elapsed:  4 Sec, 349 Millisec, 
+04/25/2016@22:44 logger closed!
+
+04/25/2016@22:44 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:44 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:44 test engine started.04/25/2016@22:44 processed alpha = 0.3   elapsed:  3 Sec, 177 Millisec, 
+04/25/2016@22:44 all alphas are processed.   elapsed:  3 Sec, 913 Millisec, 
+04/25/2016@22:44 logger closed!
+
+04/25/2016@22:44 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:44 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:44 test engine started.04/25/2016@22:44 processed alpha = 0.3   elapsed:  3 Sec, 816 Millisec, 
+04/25/2016@22:44 all alphas are processed.   elapsed:  4 Sec, 566 Millisec, 
+04/25/2016@22:44 logger closed!
+
+04/25/2016@22:44 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:44 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:44 test engine started.04/25/2016@22:44 processed alpha = 0.3   elapsed:  3 Sec, 936 Millisec, 
+04/25/2016@22:44 all alphas are processed.   elapsed:  4 Sec, 745 Millisec, 
+04/25/2016@22:44 logger closed!
+
+04/25/2016@22:44 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:44 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:44 test engine started.04/25/2016@22:44 processed alpha = 0.3   elapsed:  3 Sec, 779 Millisec, 
+04/25/2016@22:44 all alphas are processed.   elapsed:  4 Sec, 551 Millisec, 
+04/25/2016@22:44 logger closed!
+
+04/25/2016@22:44 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:44 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:44 test engine started.04/25/2016@22:44 processed alpha = 0.3   elapsed:  4 Sec, 196 Millisec, 
+04/25/2016@22:44 all alphas are processed.   elapsed:  5 Sec,  20 Millisec, 
+04/25/2016@22:44 logger closed!
+
+04/25/2016@22:44 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:44 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:44 test engine started.04/25/2016@22:44 processed alpha = 0.3   elapsed:  4 Sec, 376 Millisec, 
+04/25/2016@22:44 all alphas are processed.   elapsed:  5 Sec, 199 Millisec, 
+04/25/2016@22:44 logger closed!
+
+04/25/2016@22:44 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:44 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:44 test engine started.04/25/2016@22:44 processed alpha = 0.3   elapsed:  4 Sec, 409 Millisec, 
+04/25/2016@22:44 all alphas are processed.   elapsed:  5 Sec, 251 Millisec, 
+04/25/2016@22:44 logger closed!
+
+04/25/2016@22:44 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:44 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:44 test engine started.04/25/2016@22:44 processed alpha = 0.3   elapsed:  4 Sec, 474 Millisec, 
+04/25/2016@22:44 all alphas are processed.   elapsed:  5 Sec, 343 Millisec, 
+04/25/2016@22:44 logger closed!
+
+04/25/2016@22:44 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:44 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:44 test engine started.04/25/2016@22:44 processed alpha = 0.3   elapsed:  4 Sec, 584 Millisec, 
+04/25/2016@22:44 all alphas are processed.   elapsed:  5 Sec, 441 Millisec, 
+04/25/2016@22:44 logger closed!
+
+04/25/2016@22:44 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:44 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:44 test engine started.04/25/2016@22:45 processed alpha = 0.3   elapsed:  4 Sec, 700 Millisec, 
+04/25/2016@22:45 all alphas are processed.   elapsed:  5 Sec, 576 Millisec, 
+04/25/2016@22:45 logger closed!
+
+04/25/2016@22:45 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:45 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:45 test engine started.04/25/2016@22:45 processed alpha = 0.3   elapsed:  5 Sec, 248 Millisec, 
+04/25/2016@22:45 all alphas are processed.   elapsed:  6 Sec, 162 Millisec, 
+04/25/2016@22:45 logger closed!
+
+04/25/2016@22:45 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:45 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:45 test engine started.04/25/2016@22:45 processed alpha = 0.3   elapsed:  4 Sec, 773 Millisec, 
+04/25/2016@22:45 all alphas are processed.   elapsed:  5 Sec, 675 Millisec, 
+04/25/2016@22:45 logger closed!
+
+04/25/2016@22:45 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:45 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:45 test engine started.04/25/2016@22:45 processed alpha = 0.3   elapsed:  5 Sec, 588 Millisec, 
+04/25/2016@22:45 all alphas are processed.   elapsed:  6 Sec, 526 Millisec, 
+04/25/2016@22:45 logger closed!
+
+04/25/2016@22:45 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:45 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:45 test engine started.04/25/2016@22:45 processed alpha = 0.3   elapsed:  5 Sec, 453 Millisec, 
+04/25/2016@22:45 all alphas are processed.   elapsed:  6 Sec, 430 Millisec, 
+04/25/2016@22:45 logger closed!
+
+04/25/2016@22:45 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:45 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:45 test engine started.04/25/2016@22:45 processed alpha = 0.3   elapsed:  5 Sec, 436 Millisec, 
+04/25/2016@22:45 all alphas are processed.   elapsed:  6 Sec, 431 Millisec, 
+04/25/2016@22:45 logger closed!
+
+04/25/2016@22:45 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:45 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:45 test engine started.04/25/2016@22:45 processed alpha = 0.3   elapsed:  5 Sec, 726 Millisec, 
+04/25/2016@22:45 all alphas are processed.   elapsed:  6 Sec, 728 Millisec, 
+04/25/2016@22:45 logger closed!
+
+04/25/2016@22:45 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:45 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:45 test engine started.04/25/2016@22:45 processed alpha = 0.3   elapsed:  6 Sec,  29 Millisec, 
+04/25/2016@22:45 all alphas are processed.   elapsed:  7 Sec,   6 Millisec, 
+04/25/2016@22:45 logger closed!
+
+04/25/2016@22:45 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:45 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:45 test engine started.04/25/2016@22:45 processed alpha = 0.3   elapsed:  6 Sec, 259 Millisec, 
+04/25/2016@22:45 all alphas are processed.   elapsed:  7 Sec, 322 Millisec, 
+04/25/2016@22:45 logger closed!
+
+04/25/2016@22:45 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:45 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:45 test engine started.04/25/2016@22:46 processed alpha = 0.3   elapsed:  5 Sec, 861 Millisec, 
+04/25/2016@22:46 all alphas are processed.   elapsed:  6 Sec, 851 Millisec, 
+04/25/2016@22:46 logger closed!
+
+04/25/2016@22:46 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:46 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:46 test engine started.04/25/2016@22:46 processed alpha = 0.3   elapsed:  6 Sec, 344 Millisec, 
+04/25/2016@22:46 all alphas are processed.   elapsed:  7 Sec, 397 Millisec, 
+04/25/2016@22:46 logger closed!
+
+04/25/2016@22:46 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:46 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:46 test engine started.04/25/2016@22:46 processed alpha = 0.3   elapsed:  5 Sec, 883 Millisec, 
+04/25/2016@22:46 all alphas are processed.   elapsed:  6 Sec, 927 Millisec, 
+04/25/2016@22:46 logger closed!
+
+04/25/2016@22:46 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:46 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:46 test engine started.04/25/2016@22:46 processed alpha = 0.3   elapsed:  6 Sec, 566 Millisec, 
+04/25/2016@22:46 all alphas are processed.   elapsed:  7 Sec, 657 Millisec, 
+04/25/2016@22:46 logger closed!
+
+04/25/2016@22:46 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:46 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:46 test engine started.04/25/2016@22:46 processed alpha = 0.3   elapsed:  6 Sec, 953 Millisec, 
+04/25/2016@22:46 all alphas are processed.   elapsed:  8 Sec,  59 Millisec, 
+04/25/2016@22:46 logger closed!
+
+04/25/2016@22:46 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:46 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:46 test engine started.04/25/2016@22:46 processed alpha = 0.3   elapsed:  6 Sec, 658 Millisec, 
+04/25/2016@22:46 all alphas are processed.   elapsed:  7 Sec, 727 Millisec, 
+04/25/2016@22:46 logger closed!
+
+04/25/2016@22:46 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:46 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:46 test engine started.04/25/2016@22:46 processed alpha = 0.3   elapsed:  6 Sec, 686 Millisec, 
+04/25/2016@22:46 all alphas are processed.   elapsed:  7 Sec, 758 Millisec, 
+04/25/2016@22:46 logger closed!
+
+04/25/2016@22:46 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:46 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:46 test engine started.04/25/2016@22:47 processed alpha = 0.3   elapsed:  7 Sec, 446 Millisec, 
+04/25/2016@22:47 all alphas are processed.   elapsed:  8 Sec, 658 Millisec, 
+04/25/2016@22:47 logger closed!
+
+04/25/2016@22:47 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:47 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:47 test engine started.04/25/2016@22:47 processed alpha = 0.3   elapsed:  7 Sec, 430 Millisec, 
+04/25/2016@22:47 all alphas are processed.   elapsed:  8 Sec, 515 Millisec, 
+04/25/2016@22:47 logger closed!
+
+04/25/2016@22:47 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:47 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:47 test engine started.04/25/2016@22:47 processed alpha = 0.3   elapsed:  7 Sec, 518 Millisec, 
+04/25/2016@22:47 all alphas are processed.   elapsed:  8 Sec, 627 Millisec, 
+04/25/2016@22:47 logger closed!
+
+04/25/2016@22:47 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:47 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:47 test engine started.04/25/2016@22:47 processed alpha = 0.3   elapsed:  7 Sec, 845 Millisec, 
+04/25/2016@22:47 all alphas are processed.   elapsed:  8 Sec, 967 Millisec, 
+04/25/2016@22:47 logger closed!
+
+04/25/2016@22:47 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:47 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:47 test engine started.04/25/2016@22:47 processed alpha = 0.3   elapsed:  8 Sec, 385 Millisec, 
+04/25/2016@22:47 all alphas are processed.   elapsed:  9 Sec, 603 Millisec, 
+04/25/2016@22:47 logger closed!
+
+04/25/2016@22:47 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:47 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:47 test engine started.04/25/2016@22:47 processed alpha = 0.3   elapsed:  7 Sec, 723 Millisec, 
+04/25/2016@22:47 all alphas are processed.   elapsed:  8 Sec, 889 Millisec, 
+04/25/2016@22:47 logger closed!
+
+04/25/2016@22:47 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:47 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:47 test engine started.04/25/2016@22:47 processed alpha = 0.3   elapsed:  8 Sec, 159 Millisec, 
+04/25/2016@22:47 all alphas are processed.   elapsed:  9 Sec, 402 Millisec, 
+04/25/2016@22:47 logger closed!
+
+04/25/2016@22:47 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:47 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:47 test engine started.04/25/2016@22:48 processed alpha = 0.3   elapsed:  8 Sec, 425 Millisec, 
+04/25/2016@22:48 all alphas are processed.   elapsed:  9 Sec, 657 Millisec, 
+04/25/2016@22:48 logger closed!
+
+04/25/2016@22:48 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:48 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:48 test engine started.04/25/2016@22:48 processed alpha = 0.3   elapsed:  7 Sec, 822 Millisec, 
+04/25/2016@22:48 all alphas are processed.   elapsed:  9 Sec,  41 Millisec, 
+04/25/2016@22:48 logger closed!
+
+04/25/2016@22:48 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:48 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:48 test engine started.04/25/2016@22:48 processed alpha = 0.3   elapsed:  8 Sec, 996 Millisec, 
+04/25/2016@22:48 all alphas are processed.   elapsed: 10 Sec, 249 Millisec, 
+04/25/2016@22:48 logger closed!
+
+04/25/2016@22:48 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:48 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:48 test engine started.04/25/2016@22:48 processed alpha = 0.3   elapsed:  8 Sec, 300 Millisec, 
+04/25/2016@22:48 all alphas are processed.   elapsed:  9 Sec, 560 Millisec, 
+04/25/2016@22:48 logger closed!
+
+04/25/2016@22:48 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:48 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:48 test engine started.04/25/2016@22:48 processed alpha = 0.3   elapsed:  9 Sec, 215 Millisec, 
+04/25/2016@22:48 all alphas are processed.   elapsed: 10 Sec, 541 Millisec, 
+04/25/2016@22:48 logger closed!
+
+04/25/2016@22:48 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:48 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:48 test engine started.04/25/2016@22:48 processed alpha = 0.3   elapsed:  9 Sec,  75 Millisec, 
+04/25/2016@22:48 all alphas are processed.   elapsed: 10 Sec, 357 Millisec, 
+04/25/2016@22:48 logger closed!
+
+04/25/2016@22:48 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:48 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:48 test engine started.04/25/2016@22:49 processed alpha = 0.3   elapsed:  8 Sec, 819 Millisec, 
+04/25/2016@22:49 all alphas are processed.   elapsed: 10 Sec,  89 Millisec, 
+04/25/2016@22:49 logger closed!
+
+04/25/2016@22:49 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:49 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:49 test engine started.04/25/2016@22:49 processed alpha = 0.3   elapsed:  9 Sec, 473 Millisec, 
+04/25/2016@22:49 all alphas are processed.   elapsed: 11 Sec, 150 Millisec, 
+04/25/2016@22:49 logger closed!
+
+04/25/2016@22:49 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:49 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:49 test engine started.04/25/2016@22:49 processed alpha = 0.3   elapsed: 10 Sec,  32 Millisec, 
+04/25/2016@22:49 all alphas are processed.   elapsed: 11 Sec, 330 Millisec, 
+04/25/2016@22:49 logger closed!
+
+04/25/2016@22:49 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:49 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:49 test engine started.04/25/2016@22:49 processed alpha = 0.3   elapsed: 10 Sec, 181 Millisec, 
+04/25/2016@22:49 all alphas are processed.   elapsed: 11 Sec, 473 Millisec, 
+04/25/2016@22:49 logger closed!
+
+04/25/2016@22:49 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:49 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:49 test engine started.04/25/2016@22:49 processed alpha = 0.3   elapsed:  9 Sec, 658 Millisec, 
+04/25/2016@22:49 all alphas are processed.   elapsed: 10 Sec, 979 Millisec, 
+04/25/2016@22:49 logger closed!
+
+04/25/2016@22:49 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:49 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:49 test engine started.04/25/2016@22:50 processed alpha = 0.3   elapsed: 10 Sec, 381 Millisec, 
+04/25/2016@22:50 all alphas are processed.   elapsed: 11 Sec, 719 Millisec, 
+04/25/2016@22:50 logger closed!
+
+04/25/2016@22:50 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:50 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:50 test engine started.04/25/2016@22:50 processed alpha = 0.3   elapsed: 10 Sec, 500 Millisec, 
+04/25/2016@22:50 all alphas are processed.   elapsed: 11 Sec, 833 Millisec, 
+04/25/2016@22:50 logger closed!
+
+04/25/2016@22:50 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:50 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:50 test engine started.04/25/2016@22:50 processed alpha = 0.3   elapsed: 11 Sec, 166 Millisec, 
+04/25/2016@22:50 all alphas are processed.   elapsed: 12 Sec, 601 Millisec, 
+04/25/2016@22:50 logger closed!
+
+04/25/2016@22:50 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:50 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:50 test engine started.04/25/2016@22:50 processed alpha = 0.3   elapsed: 11 Sec, 409 Millisec, 
+04/25/2016@22:50 all alphas are processed.   elapsed: 12 Sec, 784 Millisec, 
+04/25/2016@22:50 logger closed!
+
+04/25/2016@22:50 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:50 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:50 test engine started.04/25/2016@22:50 processed alpha = 0.3   elapsed: 10 Sec, 533 Millisec, 
+04/25/2016@22:50 all alphas are processed.   elapsed: 11 Sec, 908 Millisec, 
+04/25/2016@22:50 logger closed!
+
+04/25/2016@22:50 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:50 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:50 test engine started.04/25/2016@22:51 processed alpha = 0.3   elapsed: 11 Sec,  44 Millisec, 
+04/25/2016@22:51 all alphas are processed.   elapsed: 12 Sec, 442 Millisec, 
+04/25/2016@22:51 logger closed!
+
+04/25/2016@22:51 ********** PatternDiscovery Started! **************
+
+04/25/2016@22:51 loading function words file ./FunctionWords/modified_str_code.txt
+04/25/2016@22:51 test engine started.04/25/2016@22:51 processed alpha = 0.3   elapsed: 12 Sec, 180 Millisec, 
+04/25/2016@22:51 all alphas are processed.   elapsed: 13 Sec, 664 Millisec, 
+04/25/2016@22:51 logger closed!
+
